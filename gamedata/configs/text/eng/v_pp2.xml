@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="st_wpn_pp2000n_descr">
+		<text>A compact personal defence weapon, designed as a close-combat weapon for special forces and law enforcement teams. It is designed with few parts for reliability, simplified maintenance and low cost. Highly maneuverable, with a high rate of fire and easy to control. Best suited for close combat.\n \n
+		%c[pda_white]PROPERTIES: \n
+		%c[d_cyan] • %c[pda_white] Faction type: %c[ui_gray_2]Warsaw Pact\n
+		%c[d_cyan] • %c[pda_white] Manufacturer: %c[ui_gray_2]KBP Instrument Design Bureau
+        </text>
+	</string>
+</string_table>
