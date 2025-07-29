@@ -154,16 +154,16 @@
     </string>
 
     <string id="ah_pirogov_quest3_title">
-        <text>Researchers: Bring Pirogov the assistant's PDA and two anomalous samples</text>
+        <text>Researchers: Bring Pirogov the research assistant's PDA and two anomalous samples</text>
     </string>
     <string id="ah_pirogov_quest3_desc">
-        <text>Pirogov's assistant, who was studying the anomalies in the Garbage before me, is missing. His PDA had the scan data for all of the anomalies in the area. I need to find the assistant, retrieve the data and get the samples from the anomalies in question.</text>
+        <text>Pirogov's fellow candidate, who was studying the anomalies in the Garbage before me, is missing. His PDA had the scan data for all of the anomalies in the area. I need to find him, retrieve the data and get the samples from the anomalies in question.</text>
     </string>   
     <string id="ah_sv_pda_title">
-        <text>Find Pirogov's missing assistant</text>
+        <text>Find the missing research assistant</text>
     </string>
     <string id="ah_sv_pda_desc">
-        <text>Most likely, the stalker got ambushed by bandits. I was told that his last radio call was from the Flea Market, so I should start my search there.</text>
+        <text>Most likely, the man got ambushed by bandits. I was told that his last radio call was from the Flea Market, so I should start my search there.</text>
     </string>       
     <string id="ah_sv_g1_title">
         <text>Find the sample in the Witch's Jelly anomaly.</text>

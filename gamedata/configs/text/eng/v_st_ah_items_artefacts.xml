@@ -99,7 +99,7 @@
 	</string>	
 
 	<string id = "st_pirogov_pda_descr">
-		<text> The PDA of a deceased stalker who helped candidate Pirogov place prototypes in the anomalies around the Garbage. It contains the remaining locations that I am supposed to scan.\n\n
+		<text> The PDA of a deceased fellow candidate, who helped Pirogov place prototypes in the anomalies around Garbage. It contains the remaining locations that I am supposed to scan.\n\n
             %c[pda_white]PROPERTIES:\n
             %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>
@@ -121,7 +121,7 @@
 	</string>		
 
 	<string id = "st_vorobushkin_pda_descr">
-		<text> An old but sturdily built memory module, retrieved from the derelict Krug Antenna Complex. Restored and repaired by Professor Vorobushkin, it contains a spectrogram of the anomalous emissions around the station, with a detailed map of their sources.\n\n
+		<text> An old but sturdy memory module, retrieved from the derelict Krug Antenna Complex. Restored and repaired by Professor Vorobushkin, it contains a spectrogram of the anomalous emissions around the station, with a detailed map of their sources.\n\n
             %c[pda_white]PROPERTIES:\n
             %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>	
