@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="yan_stalker_sakharov_task_5_name">
+		<text>Clear Lab X-16 Research Field for the Ecologists</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_text">
+		<text>Prof. Sakharov needs Lab X-16 to be cleared of mutants, so his teams can perform some research there.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_about">
+		<text>Dear stalker, I have a mission for you if you are up to the task. My assistants and research teams need to check some anomalies in Lab X-16, also called the Brain Lab, or the Miracle Machine. We think that such laboratories can house very rare artefacts. The main issue is that ever since the machine has been turned off, the lab has become the new home of many mutants. This hinders my research and I need Lab X-16 to be purged of the mutants' presence. Could you help me?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_finish">
+		<text>Wonderful news, I am dispatching my research teams as soon as possible. Here is your reward. Until next time, stalker.</text>
+	</string>
+	
+	<string id="yan_stalker_sakharov_task_6_name">
+		<text>Clear Agroprom Underground Research Field for the Ecologists</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_text">
+		<text>Prof. Sakharov needs the Agroprom Underground lab to be cleared of mutants, so his teams can perform some research.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_about">
+		<text>Dear stalker, I have a mission for you if you are up to the task. My assistants and research teams need to check some anomalies in Agroprom Underground. We anticipate this place to have some unique artefacts for study. However this installation is full of mutants, and is very dangerous. If my research teams know it has been recently cleared by an experienced stalker, I think they will be brave enough to perform some research down in those underground tunnels. Will you help me?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_finish">
+		<text>Wonderful news, I will send my researchers there as soon as possible. Here is your reward. Until next time, stalker.</text>
+	</string>
+
+    <!-- Meadow -->
+    <string id="esc_2_12_stalker_fanat_task_3_name">
+		<text>Clear Mutants from Meadow</text>
+	</string>
+    <string id="esc_2_12_stalker_fanat_task_3_text">
+		<text>Fanatic needs Meadow to be cleared of mutants, so that loners can establish a base there in the near future.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_3_fetch_about">
+		<text>Listen up bratan: we have more and more loners in Cordon and we want to expand the base towards Meadow. It's a cosy and strategic place, but it's filled with dangerous mutants. We need a kind soul who could clear the various mutant nests from Meadow. Are you in? You'll be rewarded, of course, considering how dangerous that place is.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_3_fetch_finish">
+		<text>Oh, you've cleared the mutants from Meadow? That's great news. To be honest, I didn't think you would be able to do it. This will definitely make the next expeditions to the Meadows a lot easier. Who knows, maybe we'll be able to start building an outpost over there. Here is your reward.</text>
+	</string>
+
+    <!-- Mechanic explanation for no repair -->
+	<string id="mechanic_explanation">
+		<text>Bratan, I wish I had the time to spare on fixing your gear, but everyone and their mother wants me to do the same. Why don't you do it yourself? It's all the rage around here. I'll even let you use my workbench for free. It's the one with the lit lamp.\n\n
+		No need to look so upset, I'll give you a few tips and tricks.\n
+		First, you can strip out most parts in the field, and you don't even need a workbench or a repair kit to do it. You can't remove a gun's barrel that easily, though. You'll need to be at a workbench, with the right kind of repair kit, to replace a gun's barrel. \n
+        Use cleaning kits to keep your gun's parts in top condition, and use repair kits if you need to replace a worn-out component.\n
+		You can also upgrade your equipment and craft new items at a workbench, at no extra cost. I have some crafting blueprints for sale. I think you'll want to take a look at them. 
+		</text>
+</string_table>

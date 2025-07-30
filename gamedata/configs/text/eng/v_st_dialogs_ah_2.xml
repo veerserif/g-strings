@@ -3,4 +3,10 @@
     <string id="kvartet_2">
         <text>All units, this is Quartet. Hostiles are concentrated in three areas: the entrance to the Sarcophagus, the road by the railway tracks and the main entrance to the station. Begin the assault, over. </text>
     </string>
+	<string id="cs_task1_news">
+        <text>Spore: Hey, Stalker, we’ve lost contact with one of our scouts, callsign “Crutch.” Help us find him before it’s too late - the mutants get real nasty at night. The last signal we received from him puts him near the northern parts of the Swamps - he must be near the road.</text>
+    </string>
+	<string id="cs_task1_news1">
+        <text>I'll try to find him.</text>
+    </string>
 </string_table>
