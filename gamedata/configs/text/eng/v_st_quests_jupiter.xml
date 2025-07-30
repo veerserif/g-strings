@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+    <string id="drx_sl_jup_b6_scientist_tech_task_2_about">
+        <text>One of my scientists is missing. He went out on a research expedition and never returned. Here's where he was working. Search there and see if you can find him.</text>
+    </string>
+    <string id="drx_sl_jup_b6_scientist_tech_task_3_about">
+        <text>Bandits broke into one of our mobile labs and looted it. One of the things they took was a PDA, which had some important research data in it. I've received a tip as to where they might have stashed it. If you check it out, and find the PDA, I will reward you for its return.</text>
+    </string>
+    <string id="drx_sl_jup_b6_scientist_tech_task_3_finish">
+        <text>Ah, our test data! Thank you.</text>
+    </string>
+    <string id="drx_sl_jup_b6_scientist_tech_task_4_about">
+		<text>One of our top scientists was killed in Jupiter Underground while making his way back from Pripyat. He was carrying some important research with him. I need you to find it and bring it to me.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_finish">
+		<text>Excellent work. We'll carry on his legacy. You've done well.</text>
+	</string>
+
+    <!-- Freedom Arms Dealer -->
+    <string id="drx_sl_jup_a6_freedom_leader_task_1_about">
+		<text>Freedom is having a difficult time maintaining a foothold up here. I need weapons. Lots of them.</text>
+	</string>
+    <string id="drx_sl_jup_a6_freedom_leader_task_1_fetch_about">
+		<text>I need a few %ss. If you can find a way to get them up here, past the Brain Scorcher, I'll pay you well.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_fetch_finish">
+		<text>The more rifles I have, the better I sleep. Take this payment, you've earned it.</text>
+	</string>
+
+    <!-- Loki tasks -->
+    <string id="drx_sl_jup_a6_freedom_leader_task_2_about">
+		<text>We are preparing an assault into Monolith territory. I want you to clear a path for us so our main assault force can move in.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_finish">
+		<text>Well done! We could start the assault any time. Well, maybe not now. Later today... or maybe tomorrow. Anyway, thanks man.</text>
+	</string>
+    <string id="drx_sl_jup_a6_freedom_leader_task_3_about">
+		<text>I'm sending one of the boys on a dangerous mission, and I want him to have more protection than our best suits can offer. I need a particular artefact to keep him safe.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_fetch_about">
+		<text>Bring me a "%s" artefact. If you can find one, I will compensate you well for it.</text>
+	</string>
+    <string id="drx_sl_jup_a6_freedom_leader_task_3_fetch_finish">
+		<text>Ah, perfect. Good job, you've saved a life, bro.</text>
+	</string>
+    <string id="drx_sl_jup_a6_freedom_leader_task_4_about">
+		<text>I've heard rumours that there are plans for a new super-weapon, inside a secret lab within Chernobyl NPP. We must retrieve them from the Monolith if we are to stand a chance against them. I know how risky this sounds, but if you can capture the documents, I'll make it worth your while.</text>
+	</string>
+    <string id="drx_sl_jup_a6_freedom_leader_task_4_finish">
+		<text>Excellent work from my main man. Here's your reward.</text>
+	</string>
+
+    <!-- Bandit (Klenov) tasks-->
+    <string id="drx_sl_jup_cont_trader_bandit_task_2_about">
+		<text>One of the enemy scouts informed a group of stalkers about the raid we were preparing. The result? Three dead men. We can't risk another failure, so I want you to find and kill that fucker.</text>
+	</string>
+    <string id="drx_sl_jup_cont_trader_bandit_task_3_text">
+		<text>A undercover bandit needs to be extracted from the enemy. Kill the other members of the squad and escort him back to the Klenov. The spy has a SVD.</text>
+	</string>
+    <string id="drx_sl_jup_cont_trader_bandit_task_3_about">
+		<text>Listen up. We have an inside man among the enemy troops. He has been informing us about their movement for a while now. However, we've heard nothing from him lately. His cover might be blown. They might put him in a shallow grave if we don't save his sorry ass soon.
+		\nI need you to bring him back in one piece. Keep in mind that he's with other stalkers, you need to kill them first. You can recognize him by his rifle, a SVD. He'll probably shoot at you when you attack the group, so keep it in mind. Now go!</text>
+	</string>
+    <string id="drx_sl_jup_cont_trader_bandit_task_3_finish">
+		<text>You both came back in one piece after all, heh? Take your money and go.</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_3_msg_join">
+		<text>Fuck... Don't shoot! DON'T SHOOT! They're all dead! Let's get the fuck out and head back to Klenov. Come on, man...</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_3_msg_leave">
+		<text>We made it... fucking hell! Thanks, I owe you one. Take care now.</text>
+	</string>
+
+    <!--Dynamic tasks-->
+    <string id="jup_b6_scientist_tech_task_1_text">
+		<text>The scientists have hired you to guide them to a specific location for study. Once their research is finished, return them safely to camp.</text>
+	</string>
+    <string id="jup_b6_scientist_tech_task_1_about">
+		<text>We need an experienced stalker to lead a few of our colleagues out into the field. Are you up for the task?</text>
+	</string>
+
+	<string id="jup_b6_scientist_tech_task_2_text">
+		<text>You have been asked to retrieve the %s artefact. Bring it back to Tukarev once you find it.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_about">
+		<text>We are looking for certain kinds of artefacts. If you are interested, I will tell you what we need.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_about">
+		<text>I need you to bring us back a "%s" artefact. You ever heard of it?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_finish">
+		<text>Great! You've found exactly what we are looking for. Take this suit, it offers great protection against the Zone's dangers.</text>
+	</string>
+    	<string id="jup_b6_scientist_tech_task_3_about">
+		<text>The researchers are in constant peril. There are bandits all over the area and no one seems to be doing a damn thing about it. I want you to clear the area with some of my men. Don't let their grades fool you, these boys know how to fight. Now get out there and lead them to victory!</text>
+	</string>
+
+    <!--Trapper tasks-->
+    <string id="jup_b220_trapper_task_1_text">
+		<text>Mutants near this location are making it dangers for the locals. Lead a hunting party to reduce their threat. Report back to Trapper when the job is done.</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_about">
+		<text>I've organized a hunt around Jupiter, to cull the various mutant lairs nearby and make things safer around here. I need someone experienced to lead it. Do you want the job?</text>
+	</string>
+    <string id="jup_b220_trapper_task_1_finish">
+		<text>Thank you, stalker. We won't get jumped by monsters as often any more. Here is your payment.</text>
+	</string>
+    <string id="jup_b220_trapper_task_2_about">
+		<text>I have a dangerous threat that needs to be eliminated. Not a mutant this time, but a man. He's a high-risk target, but high risk comes with high rewards. Are you up for the job?</text>
+	</string>
+    <string id="jup_b220_trapper_task_3_about">
+		<text>One of my hunters is in the market for a specific firearm that I don't have. Would you be able to track one down for me?</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_about">
+		<text>I need a %s. The hunter who wants it goes after dangerous game, so he needs it to be in excellent condition. I can pay you well if you find one.</text>
+	</string>
+
+    <!-- More ecos tasks -->
+    <string id="jup_b6_scientist_nuclear_physicist_task_1_text3">
+		<text>Report your success.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_about">
+		<text>Our group is trying to uncover the relationship between emissions and artefacts, by conducting experiments on anomalous formations. But our research team is stretched thin, and we need some extra help. We need a volunteer to take this scanner and place it near the anomalies. The data will be sent back to our computers.</text>
+	</string>
+
+    <!--Monolith mechanic-->
+    <string id="mechanic_monolith_jup_depo_task_1_about">
+		<text>Our base is still new, and our lack of equipment is acute. Will you find a set of basic tools for our brotherhood? You will help lay the foundations for our strength.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_fetch_about">
+		<text>Our base is still new, and our lack of equipment is acute. Will you find a set of basic tools for our brotherhood? You will help lay the foundations for our strength.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_fetch_finish">
+		<text>Excellent. This will help us grow in strength... I believe you deserve a discount.</text>
+	</string>
+
+	<string id="mechanic_monolith_jup_depo_task_2_about">
+		<text>Though our spirit is strong, the infidels have slightly better weaponry because of their access to better tools. I want to put us on even footing, so I need advanced tools to grant us better weapons. Brother, will you help me?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_fetch_about">
+		<text>Though our spirit is strong, the infidels have slightly better weaponry because of their access to better tools. I want to put us on even footing, so I need advanced tools to grant us better weapons. Brother, will you help me?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_fetch_finish">
+		<text>Good work. With these tools, we can dominate the surrounding area... This deserves a greater discount, in recognition of your achievement.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_about">
+		<text>I want to create an armory fit to drive out the unbelievers once and for all. To surpass the infidels, I need expert calibration tools for our armoury. Please, find a set and bring it to me.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_fetch_about">
+		<text>To surpass the infidels, I need expert calibration tools for our armoury. Please, find a set and bring it to me.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_fetch_finish">
+		<text>It is done. With this equipment, none can withstand our might. You'll get nothing but the best from me, from no won.</text>
+	</string>
+
+    <!--Bandit mechanic-->
+    <string id="jup_cont_mech_bandit_task_1_text">
+		<text>The bandit tech has asked me to bring him %s.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_about">
+		<text>We ain't got shit! Stalkers snatched everything when they set up defenses at Yanov, those fuckers. I need some tools, man. Get me some, yeah?</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_fetch_about">
+		<text>We ain't got shit! Stalkers snatched everything when they set up defenses at Yanov, those fuckers. I need some tools, man. Get me some, yeah?</text>
+	</string>
+
+	<string id="jup_cont_mech_bandit_task_2_text">
+		<text>The bandit tech has asked me to bring him %s.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_about">
+		<text>Listen, can you get me a better toolkit? Better kit for better shit, you know? It's hard for us to survive without the right upgrades.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_fetch_about">
+		<text>Listen, can you get me a better toolkit? Better kit for better shit, you know? It's hard for us to survive without the right upgrades.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_fetch_finish">
+		<text>Thanks, man. You're a real solid guy, you know that?</text>
+	</string>
+
+	<string id="jup_cont_mech_bandit_task_3_text">
+		<text>The bandit tech has asked me to bring him %s.s</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_about">
+		<text>Hey, buddy, the other two sets of tools are pretty good, but I need the best of the best. You know, the shit that'll make the other techs go, "oooh, yeah..."</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_fetch_about">
+		<text>Hey, buddy, the other two sets of tools are pretty good, but I need the best of the best. You know, the shit that'll make the other techs go, "oooh, yeah..."</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_fetch_finish">
+		<text>Well, fuck me sideways! What a rarity... a real gem. I'll give you another discount, you deserve it. Thanks, bro.</text>
+	</string>
+
+	
+	<!-- Bonesetter (Loner Medic) -->
+	<string id="jup_a6_stalker_medik_task_1_text">
+		<text>Bonesetter needs %s to work on medical supplies.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_task_1_about">
+		<text>Maintaining my medical supplies with the number of injuries I have to treat on daily basis is tricky. I'm gonna run out of bandages and medkits sooner or later. I need you to find me one of those old drug-making kits. They'll let me keep going a little longer.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_task_1_fetch_about">
+		<text>There is. I've been looking all over for a %s. It's got what I need to stretch out our meds. I'll pay you for one of these kits if you can bring a full set back to me.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_task_1_fetch_finish">
+		<text>Great job! I own you big time.</text>
+	</string>
+</string_table>
