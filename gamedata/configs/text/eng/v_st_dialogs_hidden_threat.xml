@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!--
+    Storyline: Hidden Threat
+	Version:   1.0
+    Autor:     Longreed
+	Last Edit: 01/11/2021
+-->
+<string_table>
+    <!------------- Полковник Кузнецов(Агропром) ----------------->
+	<!-- D1 -->
+    <string id="st_sl_hidden_threat_dialog_kuznetsov_d1_first_1">
+        <text>Greetings, Comrade Colonel! Military stalker %s has arrived at your command!</text>
+    </string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_1_1">
+        <text>Listen carefully. We've received information from an informant in the mercenary ranks. A strange visitor has arrived at their base in Dead City. Our informant couldn't identify the visitor's faction, which is strange. On the surface, he was well-equipped with special gear, but the informant claims that he is not a mercenary. He took a case from Dushman and left, avoiding contact with outsiders. Your job is to find out who this visitor is and what he's doing in the Zone. Is that clear?</text>
+    </string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_2_1">
+	    <text>I have questions about the mission, Commander.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_5_1">
+	    <text>Why are we doing this, not the SSU?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_7_1">
+	    <text>Can I get a briefing first?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_8_1">
+	    <text>There was a report of an attack on a stalker camp in Darkscape a few days ago. There was only one survivor. He's at the farmhouse in Cordon. The attackers could have been anyone, bandits, mercs and other scum, or someone connected to our case. Find a way to talk to the surviving stalker and find out more about the attack. It's not much of a lead, an ordinary event in the Zone, but that's all we've got.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_9_1">
+	    <text>I sent a report to headquarters, and included all the information given by our informant. It could take weeks for them to get the SSU operatives into the Zone. I got a bad feeling, soldier, that we're running out of time. Something's going on, and someone's trying to hide it from us. That's why we'll act on our own, under my responsibility. You're one of the most experienced military officers here, there's no one else I would trust with this assignment.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_11_1">
+	    <text>The other day Colonel Degtyarev gathered his people and headed somewhere to the north of the Zone. I don't where exactly - you know the SSU doesn't report to us, they keep their own secrets. All I heard is something about Pripyat outskirts. We have no contact yet, and we don't know when he will appear. We must act now.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_12_1">
+	    <text>I have my thoughts, but I'll keep them to myself for now. If the information you've found confirms my suspicions, we'll talk about it more.</text>
+	</string>	
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d2_first_1">
+	    <text>Report. The stalker died before we got any info from him.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d2_1_1">
+	    <text>Damn it, soldier! Another failure and I'll assign this mission to someone more reliable. Go to the sawmill in Darkscape and look around for any useful information. Get to it.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d2_2_1">
+	    <text>Yes, sir, Comrade Colonel, sir!</text>
+	</string>
+	<!-- D3 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d3_first_1">
+	    <text>Commander, I've checked the Sawmill in the Darkscape. Something strange is happening.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d3_2_1">
+	    <text>There were specialists there, armed with NATO weaponry. By all accounts, mercenaries. I assume that the stalkers were kicked out of the Sawmill, so the attackers could establish a base there. They left it not long before I got there. It's unclear why the mercenaries need a base in such a remote area.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d3_3_1">
+	    <text>Hmmm... I wonder... There's nothing strange about it if they're not mercenaries. The Sawmill base is the perfect hiding place to lay low. I suppose that survivor spoiled their spot. All right, let's leave it at that. We'll wait for more information, but for now we have only riddles. I'll let you know when I need you. And yes, stalker. Go see Sergeant Lozhkin. I've authorized you to get new gear.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d4_4_1">
+	    <text>Before leaving for the north of the Zone, Degtyarev took one squad of fighters from me. I was not told where they were going, or what their mission was, and the men were ordered to keep quiet. Today I got an "SOS" signal from this squad. The message said that they were on the territory of the "Jupiter" plant and had been attacked by unknown assailants. They're holding out for now, but help is urgently needed. Your task is to help the fighters and find out who these "unknowns" are. They could be the outsiders we're looking for. Any questions?</text>
+	</string>
+	<!-- D5 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_first_1">
+	    <text>Degtyarev's fighters are dead. I was too late to help. But I did catch the men who eliminated them.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_1_1">
+	    <text>The Jupiter plant isn't far, there's almost no chance of saving them. What did you find out about the people who attacked our guys?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_2_1">
+	    <text>Strange stalkers dug in at the site, blocked the entrances and prepared to defend the point. It seems they were looking for something in the area. It's not clear who they were, but their equipment is excellent. They acted very professionally. Here's a patch from one of them. The insignia is unfamiliar to me.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_3_1">
+	    <text>Hmm... But it's familiar to me. So my hunch is confirmed. Listen carefully, soldier. There is an International Study Group in the Zone, ISG for short. It was created and exists under the auspices of the UN, but in reality it's largely controlled by the United States. They work in the Zone officially, but only as civilian scientists. So, fighter, did your stalkers look like civilians? That's because they aren't. They are the fighting wing of the ISG, and they are in the Zone illegally. Ukraine has not allowed international organizations to operate militarized groups in its territory. Clearly, these ISG mercenaries who were sniffing around at the "Jupiter" plant bumped into our men, most likely by accident, and they were exposed. Now we know who our enemy is, and it's time for us to find out what they are up to in the Zone. Good job, stalker. I'll let you know when I need you.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_4_1">
+	    <text>I've got something, commander!</text>
+	</string>
+	<!-- D6 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_1_1">
+	    <text>Let's keep it brief. What did you find and where did you get it?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_2_1">
+	    <text>I was guarding the factory above X-18, on Kirillov's orders. While I was there, the facility was attacked by ISG. We repelled the attack, and found a PDA on one of the ISG specialists. We transferred the information from that PDA onto this flash drive.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_4_1">
+	    <text>The flash drive contains maps of the Zone. It's not clear where they got them. The maps are marked with locations and comments. Two of the marked locations are where I ran into ISG squads, the Jupiter plant and the entrance to laboratory X-18. ISG is looking for something, at various places in the Zone.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_5_1">
+	    <text>Got it, stalker. The ISG probably bought the maps and all the information they need for their mission from Dushman. Remember that visitor? They must have used hard copies to prevent any information transfers from being hijacked.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_6_1">
+	    <text>What's our next move, commander? I wish we could find their operations hub, where they've dug in...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_7_1">
+	    <text>We need to strengthen security at our facilities and keep our ears to the ground. I got hints from the mainland that we shouldn't interfere with the SSU, they are aware of the ISG's activities. Stalker... Look, the higher-ups are playing chess, and we're not even on the board. So rest up, you did a good job. I'll forward your information to SSU.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d7_first_1">
+	    <text>Reporting at your command!</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d7_1_1">
+	    <text>There's an SSU major here, and I can confirm his identity. Moreover, I contacted Degtyarev, he was very surprised and alarmed by this major's appearance at the base. The major told the colonel the code "red 2." I don't know what that means, but I received an unprecedented order from Degtyarev to fully comply with the SSU major's instructions. There's a big operation going on, you'll get the details from the major.</text>
+	</string>
+	<!--------------- Выживший сталкер(Кордон) ------------------->
+	<string id="st_sl_hidden_threat_dialog_survived_first_1">
+	    <text>Eh... what happened... what's going on... </text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_2_1">
+	    <text>Friendly talk? Or something else?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_2_2">
+	    <text>Military! Oh, yeah... Sidorovich warned me. I have nothing to tell the military!</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_3_1">
+	    <text>I need to know. Who attacked your guys at the Sawmill?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_3_2">
+	    <text>We can do this the easy way or the hard way, it's your choice. I need to know who attacked your friends at the Sawmill. I'm hunting your attackers too - we have the same enemy.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_4_1">
+	    <text>Oh... Look, I don't know who attacked us. My boss sent me to the Cordon to get supplies. On the way, I had to take a big piss. While I was sitting in the bushes, I heard gunfire at the Sawmill. It was over so fast, and when I tried to call them on my PDA, I got nothing back. I got scared, man... I ran away through bushes and back to the Cordon.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_5_1">
+	    <text>Hmm. That's not much to go on. Thanks anyway. So long, stalker.</text>
+	</string>
+	<!--------------- Сержант Ложкин(Агропром) ------------------->
+	<!-- D1 -->
+    <string id="st_sl_hidden_threat_dialog_spooner_d1_first_1">
+	    <text>Listen, I heard a rumour that you're going to Cordon. I have a favor to ask of you. Take the accounting reports to Major Zhurov at the southern roadblock, if it's on your way. What do you say? The major will owe you one.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_1_1">
+	    <text>Just a minute. Well... Military stalker %s, on the list, approved by the colonel. Sign here... All right, here's your gear.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_2_1">
+	    <text>Thank you, Sergeant. Goodbye.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_3_1">
+	    <text>Wait a minute, soldier! How'd you like to make some extra money? I was supposed to get a delivery from a courier. He said he was at Agroprom two hours ago and would be here soon. Obviously, he isn't here. He was coming via Garbage, so go on the road to Garbage and look around. If you bring me my package, I'll reward you.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d3_1_1">
+	    <text>Thanks for the package. Your reward. Damn, it's too bad, I've lost my best source of supplies.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d3_3_1">
+	    <text>Every once in a while, the scientists' bodyguards from Yantar come by to restock. They pay well, they're not stingy. Some of them have NATO weapons, and are interested in ammunition for them. Obviously, we aren't exactly overflowing with such ammunition. Well, my suggestion is that you bring me NATO ammunition, and I'll give you an equal amount of ours, of the same type. I'm not interested in little bits, I'll only trade in bulk. Let's say at least 20 packs, 280-300 rounds, for cartridges. And at least 3 grenades for underbarrel grenade launchers. \n1. I'll take 300 rounds of 9x19mm ammo and give you 320 rounds of 9x18mm ammo in return. \n2. I'll take 300 rounds of 5.56x45mm ammo and give you an equal amount of 5.45x39mm. \n3. I'll take 280 rounds of .45 cal ammo and give you 90 rounds of 9x39mm. \n4. I'll take 300 rounds of 7.62x51mm ammunition for an equal amount of 7.62x54. \n5. I'll take three M203 grenades, I'll give three VOG-25 grenades in return.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_1_1">
+	    <text>What have you got?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_2_1">
+	    <text>I have 9x19mm FMJ ammo.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_3_1">
+	    <text>I have 9x19mm HP ammo.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_4_1">
+	    <text>I have 9x19mm AP ammo.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_5_1">
+	    <text>I have 5.56x45mm FMJ ammo.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_6_1">
+	    <text>I have 5.56x45mm HP rounds.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_7_1">
+	    <text>I have 5.56x45mm EPR rounds.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_8_1">
+	    <text>I have .45 ACP rounds.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_9_1">
+	    <text>I have .45 Hydra-shock rounds.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_10_1">
+	    <text>I have 7.62x51mm NATO FMJ rounds.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_11_1">
+	    <text>I have 7.62x51mm NATO AP rounds.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_12_1">
+	    <text>I have M203 underbarrel grenades.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_13_1">
+	    <text>Nevermind.</text>
+	</string>
+	<!----------------- Майор Журов(Кордон) ---------------------->
+	<string id="st_sl_hidden_threat_dialog_jurov_first_1">
+	    <text>Comrade Major! I have brought the documents from Agroprom.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_1_1">
+	    <text>Ah-hah... Sergeant Lozhkin's accounting report. Thank you, soldier. What do you want for the favor?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_1_2">
+	    <text>Ah-hah... Sergeant Lozhkin's accounting report. Thank you, stalker. Here's your reward, don't spend it all at once.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_4_1">
+	    <text>As a favor, I can give you an exclusive truce for two hours. The stalkers will let you get close and go to their bases, but if you start shooting at them, the truce is over. Off you go, I'll take care of it.</text>
+	</string>
+	<!----------- Ст.лейтенант Кириллов(Агропром) ---------------->
+	<!-- D1 -->
+	<string id="st_sl_hidden_threat_dialog_kirillov_d1_first_1">
+	    <text>Soldier, I have a personal favor to ask of you. One of the guys in our Dark Valley unit guarding the facility has a broken radio. They asked me to send a new one. I need a courier. Can you do it?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d1_1_1">
+	    <text>Wrap it up and call me Santa, I'll deliver it.</text>
+	</string>
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_kirillov_d2_first_1">
+	    <text>Listen Kirillov, you're a good techie. I have a PDA, with valuable encrypted information. Can you unlock it?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d2_1_1">
+	    <text>We'll see, give it here. Don't hold your breath, it might take me 24 hours, maybe more. I'll let you know when I'm done.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d3_1_1">
+	    <text>Oh, about that PDA... It was a tricky one. It had a special extra security module with a small amount of explosives in it. I tried to figure it out, but I slipped and tripped the explosives. I was only able to remove the external drive, but there wasn't much in it. Just a couple of maps with notes.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d3_2_1">
+	    <text>Annotated maps, huh? Fuck the PDA, don't worry about it. I'm going to see the colonel. Goodbye and thank you.</text>
+	</string>
+	<!-------- Рандомный командир отряда(Темная долина) ---------->
+	<string id="st_sl_hidden_threat_dialog_val_leader_squad_first_1">
+	    <text>Greetings military-stalker, what brings you here?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_val_leader_squad_1_1">
+	    <text>Your new radio is here.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_val_leader_squad_3_1">
+	    <text>No need to thank me.</text>
+	</string>
+	<!----------- Майор Эрнандес(Окраины Припяти) ---------------->
+	<!-- D1 -->
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d1_first_1">
+	    <text>You seem like a smart guy. You've sabotaged two of our operations, we could use someone like you. You work for us, we'll keep you safe. Evacuation from the Zone, a tidy sum in an account in any country in the world. Not like you've got much of a choice.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d1_1_1">
+	    <text>What's my other option?</text>
+	</string>
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_1_1">
+	    <text>No thanks. I'll abstain.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_2_1">
+	    <text>I don't have much time, so I won't bother with you.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_3_1">
+	    <text>...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_4_1">
+	    <text>All right, I'm not having a heart-to-heart with you. I'll give you 30 minutes to think about it. We'll talk again later. Maybe a little more urgently.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_5_1">
+	    <text>...</text>
+	</string>
+	<!----------- Лейтенант Годунов(Окраины Припяти) ------------->
+	<string id="st_sl_hidden_threat_dialog_isg_agent_d1_first_1">
+	    <text>Listen carefully! I'm an SSU major. Normally, I wouldn't risk my cover with the ISG by saving your sorry skin. But it looks like today's your lucky day. Our whole operation is screwed up. ISG somehow got wind of a stalker they weren't supposed to know about, and found out that Degtyarev's meeting with him. They sent a special group to eliminate Degtyarev and capture that stalker. The meeting will take place in the hostel. ISG plans to go in from the back entrance, flush out Degtyarev and his men, and ambush them with a sniper in the courtyard. The ISG sniper is positioned in the opposite.\n You owe me your life! You can repay me by warning the Colonel about this trap. Remember the passphrase: "Death does not wait, nor should life wait." Without the phrase, Degtyarev might put a bullet in your forehead, just in case. I've also got a stash of intel that I can't transfer - ISG are tapping all the frequencies. I hid a hard copy in a case in the department store, and I've been waiting for the right opportunity. You are my opportunity. You'll tell Degtyarev about the case in the department store. Do you understand?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_agent_d1_1_1">
+	    <text>Yes, I'll warn the Colonel and tell Degtyarev about the case. And... thank you.</text>
+	</string>
+	<!---------- Полковник Дегтярёв(Окраины Припяти) ------------->
+	<!-- D1 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_first_1">
+	    <text>So, stalker, you have one chance to convince me you're in the right place. Or are you in over your head?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_1_1">
+	    <text>Hold on, Colonel, I have a message for you from your friend. "Death does not wait, nor should life wait."</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_2_1">
+	    <text>So you know our passphrase. How did you learn it? What is your report?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_3_1">
+	    <text>At the Hospital, I was captured by the ISG. Turns out, one of the ISG officers was an undercover SSU major. He gave me my weapons and equipment, and told me to warn you about a trap they are setting for you. That's when he taught me the passphrase. On my initiative, I eliminated the main threat - a sniper to your rear. The undercover operative also told me to tell you about a case he had hidden in the department store. He said it contained critical information on the activities of the ISG.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_4_1">
+	    <text>I see, it looks like the agent picked the right moment to risk his cover. I don't have the men to divert to the case - you'll have to get it for me. I'll meet you at the Agroprom base. Do you understand?.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d2_2_1">
+	    <text>Good, this is for your help. You're a good soldier, and I've decided to put you in my special group. You'll report directly to me. Kuznetsov will arrange the transfer papers. In the meantime, I'll contact you later.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_2_1">
+	    <text>Through our undercover agent, we must know where the ISG's central base is. Why don't we just finish them off?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_3_1">
+	    <text>I was able to find out that the ISG are inspecting various places in the Zone, and are looking for something there. What do we know about the main goals of the ISG in the Zone?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_4_1">
+	    <text>That stalker in Pripyat, I recognized him; he's Strelok! Why is he so important to the ISG?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_5_1">
+	    <text>Destroying the base will only delay the problem, not solve it. The ISG will just send another group, who might succeed. Despite the fact that they are here illegally, destroying them would still cause an international scandal. Our job is to get enough information for the diplomats to discredit the ISG's activities in the Zone. Only then can we persuade them to leave, without causing an incident at the UN.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_6_1">
+	    <text>The SSU analysts have known their purpose since the arrival of the ISG. The ISG is looking for any information that even hint that the Zone is the result of a program to create weapons of mass destruction, or a threat to international security. It doesn't have to be true. It only has to be enough to let the ISG conduct an international investigation into the Zone, and force Ukraine to grant outside organizations free access to the Zone. This would effectively deprive Ukraine of its monopoly on entry to the Zone, and give control to the UN. ISG, in turn, would receive carte blanche to conduct any of its operations here. And we are likely to be strongly advised to get out of the Zone until their investigation is completed.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_7_1">
+	    <text>If he ends up in the hands of the ISG, it will be a total disaster and a failure of the entire operation. But that's not your concern. My advice to you: forget about this stalker and everything about him. You'll live longer.</text>
+	</string>
+    <!-- D4 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_first_1">
+	    <text>Stalker %s has arrived, on your orders.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_1_1">
+	    <text>At ease! Let's cut the formalities. I have a mission for you. Our agent has given us a wealth of information on ISG activities. One of their groups has a mission that's kept secret even from the rest of ISG. According to our agent, this group leaves the base every two days, and returns after 24 hours. Your job is to find out what they are doing.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_3_1">
+	    <text>That's not all. Earlier, a mercenary informant told us about an ISG group that appears periodically in Dead City. Dushman goes to the single house in the southwest of Dead City, presumably to meet them. I hadn't paid much attention to this information before, assuming that they were just exchanging supplies. But there seems to be something else going on. While we have the chance, go check out that safehouse and leave a tape recorder there. Exactly two days from now, pick it up and bring it to me. Maybe something will come of it. Any questions?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_4_1">
+	    <text>Any questions about the assignment?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_7_1">
+	    <text>Why a tape recorder, Colonel? Don't we have more advanced radio transmitters?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_8_1">
+	    <text>We're working against an organization that's far better equipped than SSU. They'll detect more sophisticated equipment with their scanners. We would just scare them off, and lose our lead. Kirillov built a voice recorder specifically for this mission. It will turn itself on once it detects conversation. It does not emit any radio waves, so it is virtually impossible to detect.</text>
+	</string>
+	<!-- D5 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d5_1_1">
+	    <text>Well done. I've assigned others to capture video footage of the meeting. Now I need time to analyze all the audio and video material with a technician. The ISG is small, but they are supported by mercenaries who are well paid. As far as we can tell, the ISG and the mercenaries are concentrating in Limansk. You can probably guess why: they're targeting the CNPP. It could jeopardize our entire operation. Thanks to you turning off the Brain Scorcher, I've sent a squad of our fighters to the CNPP. Their orders are to wait for you, and then accompany and follow your orders. Your task is to prevent the ISG from reaching the Sarcophagus. Your main objective is to eliminate the ISG group, everything else is of little interest to me.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d6_1_1">
+	    <text>Good work. We've finished analyzing the footage. The ISG has established a black market channel through the mercenaries. In the house where you set up the recorder, they were trading weapons and ammunition for artifacts. Well... the UN won't like that their pet organization is a smuggling ring. We have the information we need and it's time for our diplomatic corps to get to work. I'm going back to the mainland, and you're temporarily at Kuznetsov's disposal until I return.</text>
+	</string>
+	<!--------------- Майор Верещагин(Агропром) ------------------>
+	<!-- D1 -->
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d1_first_1">
+	    <text>Let me tell you the facts. You guys fucked things up, so I had to step in. While you were messing around with the CNPP group, which was also a distraction, their main squad, along with their eggheads, got into the X-8 lab and apparently found something they didn't like. So, Hernandez, the head of the ISG force in the Zone, ordered everyone to wrap up and leave. You know what that means, stalker? Things are heating up. The head of SSU has given the go-ahead to liquidate the ISG headquarters. They'd rather not let the information they worked to hard to get slip through their fingers. Ukraine will face diplomatic consequences after this, but that is much less important letting the ISG escape with their intel, back to the UN.\n ISG chose a great hiding spot for their base, but it's not well defended. We have trapped them between the Pripyat Outskirts and Jupiter. Now it's time to catch the mouse in our mousetrap. You're leading an assault team of experienced fighters to clean up this rat's nest. You go in, and shoot anyone who shoots back. Unless you're scared and you'd rather run home to Mama?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d2_1_1">
+	    <text>I've already been informed by radio that the ISG operations center has been destroyed. I've sent a clean-up crew and SSU operatives, they'll take everything of value there. Some scattered units of ISG probably still remain in the Zone, but without a unified center of coordination and supply, they are not a threat. We expect them to merge into other groups, or try to evacuate on their own. You did a good job. We all did a good job. Our operation is over. The details of the operation are classified, so keep your mouth shut if you want to keep your head attached. If you talk, the SSU will know. With all that said, this is from me, a personal gift.</text>
+	</string>
+	
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_first_1">
+	    <text>Recon reporting in. Our observers say that Monolith are holding the main entrance, the mercs are closing in on them. There's no clear winner yet, but Monolith are regrouping and soon the mercs will be defeated.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_2_1">
+	    <text>I can't say. The scouts haven't found them.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_4_1">
+	    <text>One of our scouts hasn't reported back. He was watching the road to the hospital. His last message was an hour ago and he hasn't responded since.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_5_1">
+	    <text>We don't have enough time to check, so we'll have to take our chances and go in blind. There's nothing for us to do anyway, let the mercs toy with the Monolith. Round up the boys, let's move out.</text>
+	</string>
+	
+	<string id="st_sl_hidden_threat_dialog_spirit_d1_first_1">
+	    <text>What do we have here? Blood splatter outside the building. No shell casings, which means means the sentry was taken by surprise and didn't return fire. Let's see what happened next...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spirit_d1_1_1">
+	    <text>Let's continue...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spirit_d2_first_1">
+	    <text>The stalkers inside the building didn't immediately realize what was happening, and were attacked from two entrances. They didn't put up a fight. 5.56x45 NATO shell casings... looks like mercenaries. Hmm... the attack was two days ago, and the coals in the fire are still warm. The attackers were camped here, and we've just missed them. Whoever it was, they're not here anymore, so it's time to get back to Kuznetsov.</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_spooner_text">
+		<text> \Lozhkin proposes an exchange: I take 300 rounds of 9x19 ammo, I give you 320 rounds of 9x18; I take 300 rounds of 5.56x45 ammo, I give you an equal amount of 5.45x39; I take 280 rounds of .45 ammo, I will give 90 rounds of 9x39 ammo in return; \n - I will take 300 rounds of 7.62x51 ammo, I will give an equal amount of 7.62x54 ammo in return; \n - I will take 5 M203 grenades, I will give an equal amount of VOG-25 grenades in return. </text>
+	</string>
+</string_table>

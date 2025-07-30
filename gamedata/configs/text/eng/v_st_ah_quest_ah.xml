@@ -201,11 +201,11 @@
     </string>   
 
     <string id="ah_les_none_desc">
-        <text>I am supposed to find two different artefacts in the Red Forest. However, to pinpoint their location, I need to find the PDA with the scan data that the stalker before me lost. It is somewhere in the western tunnels.</text>
+        <text>I am supposed to find two different artefacts in the Red Forest. However, to pinpoint their location, I need to find the PDA with the scan data that the previous stalker lost. It is somewhere in the western tunnels.</text>
     </string>       
 
     <string id="ah_chernov_quest4_desc">
-        <text>According to Chernov, he and his colleague managed to artificially create an artefact, even before the disaster. I should head to the home of his former colleague and see if the artefact is still there. There is an anomalous field near his house now, which is probably no coincidence. I should be careful.</text>
+        <text>According to Chernov, he and his supervisor managed to artificially create an artefact, even before the disaster. I should head to the home of his former supervisor and see if the artefact is still there. There is an anomalous field near his house now, which is probably no coincidence. I should be careful.</text>
     </string>   
     
     <string id="ah_chernov_quest5_title">
@@ -221,7 +221,7 @@
         <text>I should search the area for anything that can point me towards these "artefact beds". I think I saw a bundle of documents somewhere by the entrance.</text>
     </string>       
     <string id="ah_rad_r_title">
-        <text>Find three artifical samples in the Deadwood, south of the X19 complex</text>
+        <text>Find three artifical samples in the Deadwood, south of the X-19 complex</text>
     </string>
 
     <string id="ah_chernov_quest6_title">
@@ -361,10 +361,10 @@
         <text>Last Dawn: Talk to Strider</text>
     </string>
     <string id="cs_task9_storytask_descr">
-        <text>We have to get the decoder to Strider. His unit set up a small base of opperations in Jupiter, at the old checkpoint south of Yanov Station.</text>
+        <text>We have to get the decoder to Strider. His unit set up a small base of operations in Jupiter, at the old checkpoint south of Yanov Station.</text>
     </string>
     <string id="cs_task11_storytask_descr">
-        <text>Scar reported that the Clear Sky survivors may have joined the Outcasts of the Monolith. Their leader's name is Strider, his unit is located in Jupiter at the old checkpoint south of Yanov Station. I must find him and ask if he knows of the missing Clear Sky stalkers.</text>
+        <text>Scar reported that the Clear Sky survivors may have joined the Outcasts of the Monolith. Their leader's name is Strider, his unit is located in Jupiter at the old checkpoint south of Yanov Station. I must find him and ask if he knows about the missing Clear Sky stalkers.</text>
     </string>
     <string id="cs_task10_storytask_name">
         <text>Last Dawn: Talk to Cold</text>
@@ -448,11 +448,11 @@
     </string>
 
     <string id="prinesi_military_docs_start_1">
-        <text>Well, here's the thing... A box with a report from one of the northern expeditions is stored at the roadblock, from deep in the Zone. During the day they guard it as if it were filled with pure plutonium, but at night they leave no more than two guards. Sneak up to the roadblock and get that box for me. I'll spare no expense for you... within reason. You'll do it, won't you?</text>
+        <text>Why don't we trade information for information? I hear that there's a mission report from some northern military expedition that's wound up at the roadblock. During the day they guard it as if it were filled with pure plutonium, but at night they leave no more than two guards. Sneak up to the roadblock and get the box containing that report for me. If you're up for the job, then I know I can trust you with real knowledge.</text>
     </string>
 
     <string id="prinesi_military_docs_start_31">
-        <text>Well, I've got the money ready, but don't... don't make any noise, okay? We'll all be in for a world of hurt if the military gets pissed off.</text>
+        <text>I'm ready with your reward. Just keep it nice and quiet, alright? We'd all be in for a world of hurt if the military gets pissed off.</text>
     </string>
 
     <string id="cs_task0_ambush_renegade_story_descr3">
@@ -475,13 +475,13 @@
     </string>
 
     <string id="kuznecov_find_document_3_descr">
-        <text>The commander of the military unit in the Research Institute "Agroprom" instructed me to go to the laboratory X-16, which is located in Yantar. I am supposed to get secret documents and turn off the psi-installation at the same time. He also advised me to get good psi-protection first. According to him, the scientists in the mobile bunker have just developed a "psy-helmet" to provide protection against psi-radiation.</text>
+        <text>The commander of the military unit in the Research Institute "Agroprom" instructed me to go to the laboratory X-16, which is located in Yantar. I am supposed to get secret documents and turn off the psy-installation at the same time. He also advised me to get good psy-protection first. According to him, the scientists in the mobile bunker have just developed a "psy-helmet" to provide protection against psy-radiation.</text>
     </string>
     <string id="kuznecov_find_document_4">
         <text>Find the documents in the X-10 lab and disable the Brain Scorcher</text>
     </string>
     <string id="kuznecov_find_document_4_descr">
-        <text>I'm ready to break through to the North. I have protection against psi exposure. All that remains is to break through Radar, infiltrate the laboratory, take the documents and disable the main psi installation in the Zone.</text>
+        <text>I'm ready to break through to the North. I have protection against psy exposure. All that remains is to break through Radar, infiltrate the laboratory, take the documents and disable the main psy installation in the Zone.</text>
     </string>
     <string id="kuznecov_find_document_5">
         <text>Find the documents in the X-8 lab</text>
@@ -499,7 +499,7 @@
         <text>Destroy the control room "Monolith" at Chernobyl and recover important documents</text>
     </string>
     <string id="kuznecov_find_document_7_descr">
-        <text>I'm going on one last trip to get the final pieces of documentation at Chernobyl, in the "Monolith" control bunker. This will unlock one of the biggest mysteries of the Zone: the origin of the Wish Granter. I have been ordered to destroy this command post if possible. Before leaving, the colonel advised me to find the Swamp Doctor in north of the Great Swamps. He should know where the decoder to open the door to the command center is located.</text>
+        <text>I'm going on one last trip to get the final pieces of documentation at Chernobyl, in the "Monolith" control bunker. This will unlock one of the biggest mysteries of the Zone: the origin of the Wish Granter. I have been ordered to destroy this command post if possible. Before leaving, the colonel advised me to find the Doctor in north of the Great Swamps. He should know where the decoder to open the door to the command center is located.</text>
     </string>
     <string id="kuznec_stry_doc">
         <text>Return to Colonel Kuznetsov</text>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+	<!---------------------- Task 1 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_1_stage_0_descr">
+	    <text>The commander gave me a mission: finding a needle in a haystack.\n I should ask Colonel Kuznetsov about the mission in more detail.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_1_title">
+	    <text>Hidden Threat: Sole Survivor</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_1_descr">
+	    <text>I barely got any more useful information from Kuznetsov about my assignment. The colonel instructed me to check up on the survivor of the Darkscape Sawmill attack. He's staying at the Farm in Cordon. I will have to use a disguise to talk to him.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_2_title">
+	    <text>Hidden Threat: Return to Colonel Kuznetsov</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_2_descr">
+	    <text>Something went wrong and the survivor is dead. Tell Kuznetsov of this failure.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_3_title">
+	    <text>Hidden Threat: Get to the Sawmill in Darkscape</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_3_descr">
+	    <text>I want to look around the Sawmill myself, to find any clues that might shed some light on what happened here.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_4_title">
+	    <text>Hidden Threat: Examine the Sawmill building</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_4_descr">
+	    <text>I want to look around the Sawmill myself, to find any clues that might shed some light on what happened here.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_5_title">
+	    <text>Hidden Threat: Return to Colonel Kuznetsov</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_5_descr">
+	    <text>I didn't find much here. It's time to return to the commander with a report.</text>
+	</string>
+	<!---------------------- Task 2 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_2_stage_0_title">
+	    <text>Hidden Threat: Disable the Brain Scorcher</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_2_stage_0_descr">
+	    <text>The "Brain Scorcher" is seriously hampering military operations in the north. Kuznetsov has ordered me to deal with it. The scientists in Yantar might know how to do it. I need to talk to Sakharov.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_2_stage_1_title">
+	    <text>Hidden Threat: Return to Colonel Kuznetsov</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_2_stage_1_descr">
+	    <text>The Brain Scorcher is disabled. I just need to report to the colonel.</text>
+	</string>
+	<!---------------------- Task 3 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_3_stage_0_title">
+	    <text>Hidden Threat: Get to the Jupiter plant</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_0_descr">
+	    <text>We received an SOS signal from the squad that Degtyarev sent on a secret mission. They reported that they were attacked on the near the plant in Jupiter by unknown forces, and urgently need support.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_1_title">
+	    <text>Hidden Threat: Inspect the production facilities at the "Jupiter" plant</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_1_descr">
+	    <text>The entrance of the plant is empty, and so are the administrative offices. I need to go deeper into the production facilities.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_2_descr">
+	    <text>Degtyarev's squad could not be saved. Only he knows what their mission was. The unknown attackers gave me a warm welcome. They were looking for something at the plant. Hmm... I don't recognize the insignia on their patch. I should bring one back for the colonel.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_3_title">
+	    <text>Hidden Threat: Talk to Colonel Kuznetsov</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_3_descr">
+	    <text>The unknown stalkers were all wearing the same patch. Perhaps the colonel knows more about them.</text>
+	</string>
+	<!---------------------- Task 4 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_4_stage_0_title">
+	    <text>Hidden Threat: Talk to Lieutenant Kirillov</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_0_descr">
+	    <text>Lieutenant Kirillov asked me to stop by and see him.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_1_title">
+	    <text>Hidden Threat: Take the military radio to the Dark Valley</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_1_descr">
+	    <text>I can handle a little light delivery. The guards at the entrance to X-18 are waiting for a new radio, which I should deliver.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_2_title">
+	    <text>Hidden Threat: Repel the ISG attack</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_2_descr">
+	    <text>Oh, man! Perfect timing. I need to organize the defenses.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_3_title">
+	    <text>Hidden Threat: Examine the attackers</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_3_descr">
+	    <text>I'm alive and well, that's good. We need to examine the attackers for useful information.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_4_title">
+	    <text>Hidden Threat: Talk to Lieutenant Kirillov</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_4_descr">
+	    <text>I found a PDA on one of the ISG mercenaries, possibly the commander of the group. It's locked, but our technician should be able to handle it.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_5_title">
+	    <text>Hidden Threat: Wait for Kirillov to unlock the PDA</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_5_descr">
+	    <text>Kirillov said that it will take him about a day to unlock the PDA.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_6_descr">
+	    <text>The tech said he's finished hacking the PDA we found.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_7_descr">
+	    <text>The maps we retrieved from the PDA marked locations where I've run into ISG before. Jupiter Plant, the plant over X-18. This must mean that the other markers are also ISG targets. I need to report this to Kuznetsov immediately.</text>
+	</string>
+	<!---------------------- Task 5 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_5_stage_0_title">
+	    <text>Hidden Threat: Meet Sergeant Gorobetz</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_0_descr">
+	    <text>The sergeant spotted the ISG group and asked for help. We are meeting at the Hospital in the outskirts of Pripyat.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_1_title">
+	    <text>Hidden Threat: The Mouse in the Mousetrap</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_1_descr">
+	    <text>Assault the ISG headquarters.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_2_title">
+	    <text>Hidden Threat: Kill the ISG Sniper</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_2_descr">
+	    <text>The ISG plans to eliminate Colonel Degtyarev. He doesn't stand a chance. The ISG task force has already been dispatched a long time ago, and I probably won't have time to warn the colonel. But I can take a risk and kill the sniper, to ruin the ISG ambush.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_3_title">
+	    <text>Hidden Threat: Support the SSU detachment</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_3_descr">
+	    <text>The sniper is eliminated. I need to help Degtyarev's SSU detachment fight back against the ISG.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_6_descr">
+	    <text>Degtyarev is waiting for me with the case at the military base in Agroprom.</text>
+	</string>
+	<!---------------------- Task 6 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_6_stage_0_descr">
+	    <text>I received an order from the colonel, to return to the base and talk to him.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_1_title">
+	    <text>Hidden Threat: Plant a recorder in the Dead City</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_1_descr">
+	    <text>I need to go to Dead City, and set a recorder in the standalone house in the south-west of the area.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_2_title">
+	    <text>Hidden Threat: Wait 2 days</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_2_descr">
+	    <text>The recorder is in place. Wait two days to pick it up.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_3_title">
+	    <text>Hidden Threat: Pick up the recorder from Dead City</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_3_descr">
+	    <text>2 days have passed, I need to pick up the recorder and take it to Colonel Degtyarev.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_4_title">
+	    <text>Hidden Threat: Return to Degtyarev</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_4_descr">
+	    <text>I have the recorder, time to take it to Colonel Degtyarev.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_5_title">
+	    <text>Hidden Threat: Talk to the squad leader at CNPP</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_5_descr">
+	    <text>The ISG are planning to break through the Monolith at CNPP. They're most likely already there, and my job is to keep them out of the Sarcophagus. My support squad is waiting for me at the arranged location.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_6_title">
+	    <text>Hidden Threat: Go to the northwest of CNPP</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_6_descr">
+	    <text>At the main entrance, we only found regular mercenaries, not ISG. The military squad leader reported that one of his scouts lost contact. He may have been detected and killed. Since the main entrance is not our primary target, I should check the road from the Hospital.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_7_title">
+	    <text>Hidden Threat: Eliminate the ISG team</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_7_descr">
+	    <text>It's just as I suspected. The mercenaries were distracting the main Monolith forces, and the ISG were waiting to slip in through the hospital. Time for combat!</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_8_title">
+	    <text>Hidden Threat: Report your success to Degtyarev</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_8_descr">
+	    <text>The mission was completed, the ISG group was destroyed, and now I have to report to the colonel.</text>
+	</string>
+	<!---------------------- Task 7 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_7_stage_0_title">
+	    <text>Hidden Threat: Report to Colonel Kuznetsov</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_0_descr">
+	    <text>In the absence of Degtyarev, I now once again obey Kuznetsov, who has yet another task for me.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_1_descr">
+	    <text>Major Vereshchagin is the same SSU agent who saved my life in Pripyat, I recognized him immediately. What would bring him here?</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_2_title">
+	    <text>Hidden Threat: Go to the entrance to the Pripyat Underground</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_2_descr">
+	    <text>It's time to finish off the ISG. My assault squad is waiting for me at the entrance to the Pripyat Underground, on the Jupiter side.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_3_title">
+	    <text>Hidden Threat: Enter the Pripyat Underground</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_3_descr">
+	    <text>It's about time we were done with ISG.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_4_title">
+	    <text>Hidden Threat: Eliminate all enemies in the Pripyat Underground</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_4_descr">
+	    <text>It's about time we put an end to ISG.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_5_title">
+	    <text>Hidden Threat: Report your success to Major Vereshchagin</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_5_descr">
+	    <text>ISG is finished. The assault was a success. It's time to report to Major Vereshchagin.</text>
+	</string>
+	<!---------------------- Second Task 1 ------------------------------------>
+	<string id="st_sl_hidden_threat_second_task_1_stage_0_title">
+	    <text>[HT] Southern Checkpoint: Hand over the documents</text>
+	</string>
+	<string id="st_sl_hidden_threat_second_task_1_stage_0_descr">
+	    <text>Give the accounting reports to Major Zhurov, at the Southern roadblock in Cordon.</text>
+	</string>
+	<!---------------------- Second Task 2 ------------------------------------>
+	<string id="st_sl_hidden_threat_second_task_2_stage_0_title">
+	    <text>[HT] Agroprom: Find Sgt. Lozhkin's courier</text>
+	</string>
+	<string id="st_sl_hidden_threat_second_task_2_stage_0_descr">
+	    <text>Sergeant Lozhkin's lost courier is somewhere on the road, between our base and Garbage. He's more interested in the courier's package, which I should bring back to him.</text>
+	</string>
+	<string id="st_sl_hidden_threat_second_task_2_stage_1_title">
+	    <text>[HT] Agroprom: Return the package to Lozhkin</text>
+	</string>
+	<string id="st_sl_hidden_threat_second_task_2_stage_1_descr">
+	    <text>I found Sergeant Lozhkin's lost package, which I should bring back to him.</text>
+	</string>
+	<!---------- Tips message для "Hidden Threat" ---------------------------->
+	<string id="st_sl_hidden_threat_msg_start">
+	    <text>%s, your presence is required at the base. There is an urgent assignment waiting for you.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_2_start">
+	    <text>Stalker, our case is still at a dead end. But we have an assignment for you. Our northern operations are severely hampered by the Brain Scorcher. Talk to Sakharov in Yantar and find a way to disable it.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_3_start">
+	    <text>Stalker, come see me, I need to talk to you.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_4_start">
+	    <text>%s, come in, we need to talk.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_4_stg_6_msg">
+	    <text>%s, about your PDA. Come on over, we have things to discuss.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_5_start">
+	    <text>Hey %s, long time no see. I spotted a group of ISG. I can't do this alone, I need help. If you have the guts to go to the hospital in the outskirts of Pripyat, you might earn some new stripes.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_6_start">
+	    <text>Stalker %s, return to base and come straight to me.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_7_start">
+	    <text>Stalker %s, report to me immediately!</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_armistice_start">
+	    <text>%s asked for you. You've got a free pass to our bases for 2 hours. Don't do anything stupid, if you want to live. Our boys, they don't like the military very much.</text>
+	</string>
+</string_table>
