@@ -58,6 +58,26 @@
 		<text>I need you to pick up a PDA for me. It's hidden in a spot not too far from here.</text>
 	</string>
 
+	<!-- Xenotech quests -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>Xenotech needs %s to install basic equipment upgrades.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+		<text>Finally! I've been looking forward to holding a half-decent set of tools in my hands. As for you, here's some cash. I'll open up my stores to you too, as my way of saying thanks.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>Xenotech needs %s to install advanced equipment upgrades.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+		<text>Yes, yes! This is just what I needed! Help yourself to some roubles and some more of my stock, stalker. Your help is appreciated.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
+		<text>Xenotech needs %s to install expert equipment upgrades.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
+		<text>You've proven yourself a true friend, stalker. Nothing but the finest gear for you. You'll always be welcome in my workshop.</text>
+	</string>
+
     <!-- Fanatic tasks -->
     <string id="esc_2_12_stalker_fanat_task_1_about">
 		<text>Yeah, there's a small issue that needs sorting out. Cordon is supposed to be one of the safest places in the Zone, yet a new mutant lair has sprung up not too far from here. It needs to be cleared before it gets too large - otherwise, the rookies here will be in for a bad time. So, what do you say? Will you do it?</text>
@@ -96,10 +116,19 @@
     <string id="army_south_mechan_mlr_task_1_fetch_about">
 		<text>I do, actually. A while back, all our tools were recalled to the research complex in Yantar, which is why I can't even repair the BTR here. I need tools - basic ones. Do you think you can acquire a set for me, off the books?</text>
 	</string>
+	<string id="army_south_mechan_mlr_task_1_fetch_finish">
+		<text>Let me see... wow, these really are basic, aren't they? Still, they're better than what I had. Here's a little something to say thanks, and I'll let you take a look at my expanded stock.</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_fetch_finish">
+		<text>Alright, let's take a look... okay, these are good. It's not enough for the BTR, but maybe now I can buff up the armour of the conscripts around here. That'll be good for morale - no one wants to go around thinking they'll die to a stiff breeze. As for your reward, take this bonus, and let me just expedite your access to some of the better gear...</text>
+	</string>
     <string id="army_south_mechan_mlr_task_3_about">
 		<text>Alright, so the bad news is that nothing is going to bring this particular BTR back to life. The good news is that we won't have to. Some military stalkers are showing an interest in my work. It's time to get our guys equipped with some proper gear. But for me to do that, I'll need the best tools in the Zone - expert calibration tools. Can you find me some?</text>
 	</string>
     <string id="army_south_mechan_mlr_task_3_fetch_about">
 		<text>Alright, so the bad news is that nothing is going to bring this particular BTR back to life. The good news is that we won't have to. Some military stalkers are showing an interest in my work. It's time to get our guys equipped with some proper gear. But for me to do that, I'll need the best tools in the Zone - expert calibration tools. Can you find me some?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_fetch_finish">
+		<text>You know, I never thought I'd see the day where I'd have access to such sophisticated equipment again. I thank you, on behalf of all military forces in the Zone. Your contribution today will doubtless save many lives. Now, of course, I'm happy to open up my stores to you completely. What the quartermaster doesn't know won't hurt him.</text>
 	</string>
 </string_table>

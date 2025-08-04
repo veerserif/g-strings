@@ -62,17 +62,29 @@
 	</string>
 
 	<!-- Mangun (Duty Mechanic) -->
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_text">
+		<text>Return to Mangun for another task.</text>
+	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_text">
 		<text>Mangun needs %s to install basic equipment upgrades.</text>
 	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>Finally! Something to do that isn't just maintenance work or drinking myself to death. I'll let you access some better equipment, too.</text>
+	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_text">
 		<text>Mangun needs %s to install advanced equipment upgrades.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
+		<text>Wow, you did it! Hahaha! Am I shaking? I'm shaking! Come, have a drink with me. A friend like you deserves access to my special stock.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_text">
 		<text>Mangun needs %s to install expert equipment upgrades.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_about">
 		<text>I can't believe what you've done for me, stalker! Even some of the neutrals around here are coming to me for upgrades now! But I know, in my heart, I'm not doing as well as I could. If only I had some better tools... Listen, stalker. Bring me some expert-level tools, and I'll be in your debt. I could make your peashooter into a masterpiece! I'll think of some way I can return the favour.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
+		<text>A Dutyer's word is their bond. Hey - come back in a little bit and I'll let you get first pick of my stock. What the quartermaster doesn't know won't hurt, eh?</text>
 	</string>
 	
 	<!-- Barkeep -->

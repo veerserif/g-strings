@@ -42,11 +42,20 @@
     <string id="mar_base_stalker_tech_task_1_text">
 		<text>Novikov needs %s to install basic equipment upgrades.</text>
 	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish">
+		<text>Awesome, man! Here, take this money for your trouble. Next time you're here, I'll make sure you get the good stuff, too.</text>
+	</string>
     <string id="mar_base_stalker_tech_task_2_text">
 		<text>Novikov needs %s to install advanced equipment upgrades.</text>
 	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish">
+		<text>Awesome, man! You came through for me once again! I'll pick out some nice stuff for you after my next restock, for your dedication.</text>
+	</string>
     <string id="mar_base_stalker_tech_task_3_text">
 		<text>Novikov needs %s to install expert equipment upgrades.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_finish">
+		<text>Awesome, man! I really appreciate you. In thanks, you'll get access to the VIP stash.</text>
 	</string>
 
     <!-- MARSH DOCTOR VISIT LABS -->

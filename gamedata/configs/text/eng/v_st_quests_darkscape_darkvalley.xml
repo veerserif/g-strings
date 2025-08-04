@@ -8,6 +8,9 @@
 	<string id="dasc_tech_mlr_task_1_fetch_about">
 		<text>I had hoped a former sawmill would have some machinery left, but there's nothing but rotting logs. I could use some tools to work with. If you can find basic ones, please bring to me.</text>
 	</string>
+	<string id="dasc_tech_mlr_task_1_fetch_finish">
+		<text>Thanks. Things are going to be much easier with these. Hey, as thanks, I'll set aside some of my stock for you.</text>
+	</string>
 	<string id="dasc_tech_mlr_task_2_about">
 		<text>Since you've already found one set of tools, do you happen to know where some more advanced ones are? I desperately need some.</text>
 	</string>
@@ -16,6 +19,9 @@
 	</string>
 	<string id="dasc_tech_mlr_task_2_fetch_finish">
 		<text>Thank you, thank you. As thanks, I'll give you a small discount and access to some better stuff.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_fetch_finish">
+		<text>Thank you for everything. Next time I get restocked, you'll get the best selection out of everything I have. Perhaps this wretched place will turn into a fully fledged camp someday.</text>
 	</string>
 
 <!-- Dark Valley Raiders Companion Dialog -->
@@ -41,11 +47,20 @@
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text">
 		<text>Limpid needs %s to install basic equipment upgrades.</text>
 	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_finish">
+		<text>Perfect! This is just what I need, man. I can properly upgrade gear now! I'll make sure you get access to the good stuff next time you're back.</text>
+	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text">
 		<text>Limpid needs %s to install advanced equipment upgrades.</text>
 	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
+		<text>You followed through again! Good deal man. One friend to another, I'll make sure you get dibs on my next restock.</text>
+	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_text">
 		<text>Limpid needs %s to install expert equipment upgrades.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
+		<text>You followed through again! Good deal, man, here's some cash for your trouble. And I'll make sure you're the best-equipped member of the crew, just come by after my next shipment.</text>
 	</string>
 
 	<!--Bandit radiant quests-->

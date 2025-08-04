@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 
 <string_table>
-	<!---------------------- Task 1 ------------------------------------------->
+	<!-- Task 1 -->
 	<string id="st_sl_hidden_threat_task_1_stage_0_descr">
 	    <text>The commander gave me a mission: finding a needle in a haystack.\n I should ask Colonel Kuznetsov about the mission in more detail.</text>
 	</string>
@@ -35,7 +35,7 @@
 	<string id="st_sl_hidden_threat_task_1_stage_5_descr">
 	    <text>I didn't find much here. It's time to return to the commander with a report.</text>
 	</string>
-	<!---------------------- Task 2 ------------------------------------------->
+	<!-- Task 2 -->
 	<string id="st_sl_hidden_threat_task_2_stage_0_title">
 	    <text>Hidden Threat: Disable the Brain Scorcher</text>
 	</string>
@@ -48,7 +48,7 @@
 	<string id="st_sl_hidden_threat_task_2_stage_1_descr">
 	    <text>The Brain Scorcher is disabled. I just need to report to the colonel.</text>
 	</string>
-	<!---------------------- Task 3 ------------------------------------------->
+	<!-- Task 3 -->
 	<string id="st_sl_hidden_threat_task_3_stage_0_title">
 	    <text>Hidden Threat: Get to the Jupiter plant</text>
 	</string>
@@ -70,7 +70,7 @@
 	<string id="st_sl_hidden_threat_task_3_stage_3_descr">
 	    <text>The unknown stalkers were all wearing the same patch. Perhaps the colonel knows more about them.</text>
 	</string>
-	<!---------------------- Task 4 ------------------------------------------->
+	<!-- Task 4 -->
 	<string id="st_sl_hidden_threat_task_4_stage_0_title">
 	    <text>Hidden Threat: Talk to Lieutenant Kirillov</text>
 	</string>
@@ -113,7 +113,7 @@
 	<string id="st_sl_hidden_threat_task_4_stage_7_descr">
 	    <text>The maps we retrieved from the PDA marked locations where I've run into ISG before. Jupiter Plant, the plant over X-18. This must mean that the other markers are also ISG targets. I need to report this to Kuznetsov immediately.</text>
 	</string>
-	<!---------------------- Task 5 ------------------------------------------->
+	<!-- Task 5 -->
 	<string id="st_sl_hidden_threat_task_5_stage_0_title">
 	    <text>Hidden Threat: Meet Sergeant Gorobetz</text>
 	</string>
@@ -141,7 +141,7 @@
 	<string id="st_sl_hidden_threat_task_5_stage_6_descr">
 	    <text>Degtyarev is waiting for me with the case at the military base in Agroprom.</text>
 	</string>
-	<!---------------------- Task 6 ------------------------------------------->
+	<!-- Task 6 -->
 	<string id="st_sl_hidden_threat_task_6_stage_0_descr">
 	    <text>I received an order from the colonel, to return to the base and talk to him.</text>
 	</string>
@@ -193,7 +193,7 @@
 	<string id="st_sl_hidden_threat_task_6_stage_8_descr">
 	    <text>The mission was completed, the ISG group was destroyed, and now I have to report to the colonel.</text>
 	</string>
-	<!---------------------- Task 7 ------------------------------------------->
+	<!-- Task 7 -->
 	<string id="st_sl_hidden_threat_task_7_stage_0_title">
 	    <text>Hidden Threat: Report to Colonel Kuznetsov</text>
 	</string>
@@ -227,14 +227,14 @@
 	<string id="st_sl_hidden_threat_task_7_stage_5_descr">
 	    <text>ISG is finished. The assault was a success. It's time to report to Major Vereshchagin.</text>
 	</string>
-	<!---------------------- Second Task 1 ------------------------------------>
+	<!-- Second Task 1 -->
 	<string id="st_sl_hidden_threat_second_task_1_stage_0_title">
 	    <text>[HT] Southern Checkpoint: Hand over the documents</text>
 	</string>
 	<string id="st_sl_hidden_threat_second_task_1_stage_0_descr">
 	    <text>Give the accounting reports to Major Zhurov, at the Southern roadblock in Cordon.</text>
 	</string>
-	<!---------------------- Second Task 2 ------------------------------------>
+	<!-- Second Task 2 -->
 	<string id="st_sl_hidden_threat_second_task_2_stage_0_title">
 	    <text>[HT] Agroprom: Find Sgt. Lozhkin's courier</text>
 	</string>
@@ -247,7 +247,7 @@
 	<string id="st_sl_hidden_threat_second_task_2_stage_1_descr">
 	    <text>I found Sergeant Lozhkin's lost package, which I should bring back to him.</text>
 	</string>
-	<!---------- Tips message для "Hidden Threat" ---------------------------->
+	<!-- Tips message для "Hidden Threat" -->
 	<string id="st_sl_hidden_threat_msg_start">
 	    <text>%s, your presence is required at the base. There is an urgent assignment waiting for you.</text>
 	</string>

@@ -132,7 +132,7 @@
 		<text>Our base is still new, and our lack of equipment is acute. Will you find a set of basic tools for our brotherhood? You will help lay the foundations for our strength.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_1_fetch_finish">
-		<text>Excellent. This will help us grow in strength... I believe you deserve a discount.</text>
+		<text>Excellent. This will help us grow in strength... I believe you deserve a discount, and access to some finer equipment.</text>
 	</string>
 
 	<string id="mechanic_monolith_jup_depo_task_2_about">
@@ -142,7 +142,7 @@
 		<text>Though our spirit is strong, the infidels have slightly better weaponry because of their access to better tools. I want to put us on even footing, so I need advanced tools to grant us better weapons. Brother, will you help me?</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_2_fetch_finish">
-		<text>Good work. With these tools, we can dominate the surrounding area... This deserves a greater discount, in recognition of your achievement.</text>
+		<text>Good work. With these tools, we can dominate the surrounding area... You deserve access to the special stock, in recognition of your achievement.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_3_about">
 		<text>I want to create an armory fit to drive out the unbelievers once and for all. To surpass the infidels, I need expert calibration tools for our armoury. Please, find a set and bring it to me.</text>
@@ -151,7 +151,7 @@
 		<text>To surpass the infidels, I need expert calibration tools for our armoury. Please, find a set and bring it to me.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_3_fetch_finish">
-		<text>It is done. With this equipment, none can withstand our might. You'll get nothing but the best from me, from no won.</text>
+		<text>It is done. With this equipment, none can withstand our might. You'll get nothing but the best from me, from now on.</text>
 	</string>
 
     <!--Bandit mechanic-->
@@ -164,6 +164,9 @@
 	<string id="jup_cont_mech_bandit_task_1_fetch_about">
 		<text>We ain't got shit! Stalkers snatched everything when they set up defenses at Yanov, those fuckers. I need some tools, man. Get me some, yeah?</text>
 	</string>
+	<string id="jup_cont_mech_bandit_task_1_fetch_finish">
+		<text>Ah, beautiful! Someone's getting premium access to the goods.</text>
+	</string>
 
 	<string id="jup_cont_mech_bandit_task_2_text">
 		<text>The bandit tech in Jupiter has asked me to bring him %s.</text>
@@ -175,7 +178,7 @@
 		<text>Listen, can you get me a better toolkit? Better kit for better shit, you know? It's hard for us to survive without the right upgrades.</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_2_fetch_finish">
-		<text>Thanks, man. You're a real solid guy, you know that?</text>
+		<text>Thanks, man. You're a real solid guy, you know that? Come back after I get my next shipment and I'll take care of you.</text>
 	</string>
 
 	<string id="jup_cont_mech_bandit_task_3_text">
@@ -188,7 +191,7 @@
 		<text>Hey, buddy, the other two sets of tools are pretty good, but I need the best of the best. You know, the shit that'll make the other techs go, "oooh, yeah..."</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_3_fetch_finish">
-		<text>Well, fuck me sideways! What a rarity... a real gem. I'll give you another discount, you deserve it. Thanks, bro.</text>
+		<text>Well, fuck me sideways! What a rarity... a real gem. I'll let you get first pick of my shipments from now on. You deserve it, bro.</text>
 	</string>
 
 	

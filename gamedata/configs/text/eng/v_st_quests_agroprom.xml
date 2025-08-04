@@ -103,6 +103,9 @@
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about">
 		<text>The SSU recently requisitioned the base's tools for themselves, and we need replacements. While we've been waiting on logistics, the Colonel is getting impatient. I'm authorized to reward anyone who happens to find rudimentary tools while out on patrol. Will you keep an eye open for some?</text>
 	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_finish">
+		<text>Alright, let me see. Yeah, okay. These will do. Here's your reward. You can consider yourself eligible to access some better gear, too.</text>
+	</string>
 
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_text">
 		<text>Lt. Kirilov needs %s to install advanced equipment upgrades.</text>
@@ -112,6 +115,9 @@
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_about">
 		<text>That's what I like to hear, soldier. Wanna make sure your gear is in decent shape before you leave?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_finish">
+		<text>Already? Good. Let me take a look. Alright, these will do very nicely! You've earned yourself a bonus. Here, take it. And next time you're here, I'll let you take a look at my special stash.</text>
 	</string>
     
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_text">
@@ -124,7 +130,7 @@
 		<text>Good, I knew you wouldn't let me down. Get back with the tools, and I'll even throw in some basic lessons on field maintenance, assuming another mechanic hasn't shown you yet. Good hunting out there, comrade.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_finish">
-		<text>Maybe when I show this to the Colonel, he'll finally crack a smile. The stalkers won't know what hit them when the time comes. If you find any more tools, be sure to visit our checkpoint in Cordon or the mobile lab in Yantar - last I heard, the technicians there could use some tools too.</text>
+		<text>Maybe when I show this to the Colonel, he'll finally crack a smile. It only seems fair to let you have full access to my stock, too. If you find any more tools, be sure to visit our checkpoint in Cordon or the mobile lab in Yantar - last I heard, the technicians there could use some tools too.</text>
 	</string>
 
 <!-- (Military Medic) -->
