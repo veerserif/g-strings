@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_about">
+		<text>I have a high-value target that needs to be eliminated from range. I need a high-precision sharpshooter for the job.</text>
+	</string>
+
+	<!-- Kuznetsov (Military Honcho) Assault Enemy Camp Storyline Task -->
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_text">
+		<text>Lead the squad in an assault on an enemy encampment.</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_about">
+		<text>We're preparing an assault on an enemy camp. For this occasion, I've ensured everyone has been issued new weapons. As for you, I need you to be on point for the initial attack.</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
+		<text>Excellent work. You are a fine fighter.</text>
+	</string>
+
+	<!-- Kuznetsov (Military Honcho) Defend Military Base Storyline Task -->
+
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_text">
+		<text>I must defend the military base against an enemy assault.</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_about">
+		<text>Enemy forces have been spotted in the area. I have reason to suspect they are plotting an assault on our base. Take your squad out and neutralize the threat.</text>
+	</string>
+
+	<!-- Kuznetsov (Military Honcho) Save the Military Agent Storyline Task -->
+
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_name">
+		<text>On Ukraine's Secret Service</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_text">
+		<text>A undercover agent needs to be extracted from a enemy faction. I'll need to eliminate the other members of the squad and escort him back to the base. The spy has a SVD.</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_about">
+		<text>We placed an agent undercover with an enemy faction. However, we think he has been compromised, as he has missed his last rendezvous and seems to be kept under surveillance. Right now, he's playing along, but we need to extract him before the enemy find out his real mission. Our agent is nearby, with other enemy stalkers. You need to kill the enemies around him and escort him back. You can recognize him by his rifle, an SVD. He'll have to shoot at you when you attack the group, so keep it in mind.</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_msg_join">
+		<text>Stop shooting! I'm with you! Sorry, I had to keep shooting in case things went south. Let's go back to base now.</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_msg_leave">
+		<text>This is where I leave you. Thanks again for everything. Take care.</text>
+	</string>
+	<!-- Kuznetsov (Military Honcho) Payoff Change Factions Task -->
+
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_name">
+		<text>Becoming a Military Stalker</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_text">
+		<text>Colonel Kuznetsov has asked me to bring him 8,000 RU as a demonstration of my resourcefulness.</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_about">
+		<text>Ah, it's good to see some national pride among the youth of today! Let's see... well, you're way too irradiated to pass the physical exam for enlistment... I suppose you were instead thinking of getting commissioned as a Military Stalker, eh? We don't just let anyone in, you know.\n \nFirst bring 8,000 RU as proof of your ability to survive here, and then we can talk seriously about this.</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_finish">
+		<text>Hmph, and there it is. You've profited where lesser men would've died. Welcome to the service, soldier. Be sure to keep your nose clean out there.</text>
+	</string>
+
+	<!-- Kuznetsov (Military Honcho) Stop Unauthorized Incursions Task -->
+
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_about">
+		<text>I have a delicate matter for you. The presence of trespassing stalkers near our base is hampering future operations. Here's your assignment: any authorized personnel or Duty forces you find at the marked location can go free, but all other stalker must be terminated, no matter what. Even if they think they have an "agreement" with us. Do you understand?</text>
+	</string>
+	<!-- Kuznetsov (Military Honcho) Capture Territory Task -->
+
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_name">
+		<text>Peer Punishment</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_text">
+		<text>I have been ordered by the Military to retaliate against a site where Ecologists were attacked.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_about">
+		<text>Lately, there's been an increase in illegal stalker activities in the Zone. One such criminal group has attacked some of our scientists. The individuals who did this despicable act may have disappeared, but we must punish someone nonetheless. Go to the scene of the attack, and eliminate any stalkers foolish enough to be there. </text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
+		<text>The task is done? Good job. Maybe now they'll think twice before interfering with our civilians.</text>
+	</string>
+
+	<!-- Kuznetsov (Military Honcho) Capture Enemy Combatant Task -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_about">
+		<text>The SSU keeps me furnished with a list of its most-wanted targets. Some of them are known spies or enemy tacticians. Others, I'm ashamed to say, are deserters, dishonourable worms who have abandoned their comrades-in-arms. Still more are little better than common scum - criminals from the outside world who fled into the Zone to escape justice. One such target has made himself vulnerable. His exact crime doesn't matter. If you are willing to be his executioner, you can expect a bonus in your next paycheck. </text>
+	</string>
+
+	<!-- Kuznetsov (Military Honcho) Tight Security Task -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_about">
+		<text>Some of my friends among the top brass have launched an unofficial bounty program, would you like to take part? It involves putting some stalker scum to rest.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_fetch_about">
+		<text>Some of my friends among the top brass have launched an unofficial bounty program. Guard duty gets dull as the months turn into years. So, to keep everyone sharp, the men will be sent out on patrol more often, and the first squad in each platoon to come back with enough %ses is entitled to a reward. If you're interested, you're more than welcome to take part yourself.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_about">
+		<text>Our contact in Cordon has sent us vital information regarding stalker activity in the surrounding areas. You'll need to proceed to the dead drop location, I'll highlight it on your PDA. Retrieve the documents there, then report back immediately. It's not glorious work, but it's a decent commission for minimal risk. </text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_finish">
+		<text>Excellent job, soldier. I hope for your sake that you aren't about to leak any secrets from those files.</text>
+	</string>
+
+	<!-- Kirilov (Military Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_text">
+		<text>Lt. Kirilov needs %s to install basic equipment upgrades.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about">
+		<text>The SSU recently requisitioned the base's tools for themselves, and we need replacements. While we've been waiting on logistics, the Colonel is getting impatient. I'm authorized to reward anyone who happens to find rudimentary tools while out on patrol. Will you keep an eye open for some?</text>
+	</string>
+
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_text">
+		<text>Lt. Kirilov needs %s to install advanced equipment upgrades.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_about">
+		<text>I have the tools to give our conscripts the edge they need, but Spetsnaz are a little more demanding. So, I still need tools - this time, an advanced kit. As before, I'll give fair compensation for anyone who can bring a set of advanced tools back to base.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_about">
+		<text>That's what I like to hear, soldier. Wanna make sure your gear is in decent shape before you leave?</text>
+	</string>
+    
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_text">
+		<text>Lt. Kirilov needs %s to install expert equipment upgrades.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_about">
+		<text>HQ nearly has a full complement of tools now. However, some of the less orthodox gear, the kind used by our military stalkers, will require even better tools to get the most out of them. What I need now are expert tools for calibration work. You've been reliable so far, so I know I can trust you to find them. Will you do it?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_about">
+		<text>Good, I knew you wouldn't let me down. Get back with the tools, and I'll even throw in some basic lessons on field maintenance, assuming another mechanic hasn't shown you yet. Good hunting out there, comrade.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_finish">
+		<text>Maybe when I show this to the Colonel, he'll finally crack a smile. The stalkers won't know what hit them when the time comes. If you find any more tools, be sure to visit our checkpoint in Cordon or the mobile lab in Yantar - last I heard, the technicians there could use some tools too.</text>
+	</string>
+
+<!-- (Military Medic) -->
+	<string id="agr_1_6_medic_army_mlr_task_1_name">
+		<text>Find %s for Lt. Rogovets</text>
+	</string>
+	<string id="agr_1_6_medic_army_mlr_task_1_text">
+		<text>Lt. Rogovets needs %s to expand his selection of medical supplies.</text>
+	</string>
+	<string id="agr_1_6_medic_army_mlr_task_1_about">
+		<text>We're short on medical supplies and our next supply drop won't be coming any time soon. However, I heard that some stalkers and traders started smuggling those drug-making kits in the Zone. They will come in handy for sure. Will you help me out?</text>
+	</string>
+	<string id="agr_1_6_medic_army_mlr_task_1_fetch_about">
+		<text>While I can treat the men at base just fine, my ability to keep them supplied while they're out in the field is limited. So, I've been trying to requisition a %s. It'll let me prepare medicine for almost any potential threat or injury a soldier could encounter while out on patrol.\n \nOr at least, it would, but my request keeps getting postponed. Every second could save a life, so here's my proposal: if you find a decent kit, I'll pay you out of my own wallet for it, no fuss. Just bring one to me as soon as you can. </text>
+	</string>
+
+</string_table>
