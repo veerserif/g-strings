@@ -18,3 +18,48 @@ Text fixes for GAMMA (0.9.4+), using XML overrides instead of direct file replac
 For weapons and outfits:	
 - Variant gun names should always be in double quotation marks	
 - Alternate variants should be marked with "(alternate)"
+
+## To-do list
+
+- Quest text
+  - [x] Vanilla quest text
+  - [ ] Mod-added quest text
+- Quest dialogues
+  - [x] Vanilla quest dialogues
+  - [ ] Mod-added quest dialogues
+- Non-quest dialogues
+  - [ ] Vanilla dialogues
+  - [ ] Mod-added dialogues
+- PDA text (achievements, encyclopedia, guide)
+  - [ ] Vanilla
+  - [ ] Mod-added
+- UI text strings
+  - [ ] Vanilla
+  - [ ] Mod-added
+- [ ] Loading screens (maybe also fix the loading screen variant cap)
+- Item strings
+  - Quest items
+    - [x] Vanilla
+    - [ ] Mod-added
+  - Weapons and weapon addons
+    - [ ] Vanilla
+    - [ ] Mod-added
+  - Outfits
+    - [ ] Vanilla
+    - [ ] Mod-added
+  - Ammo
+    - [ ] Vanilla
+    - [ ] Mod-added
+  - Devices, tools, repair items
+    - [ ] Vanilla
+    - [ ] Mod-added
+  - Item parts, upgrades
+    - [ ] Vanilla
+    - [ ] Mod-added
+  - Junk items
+    - [ ] Vanilla
+    - [ ] Mod-added
+  - Other items
+    - [ ] Vanilla
+    - [ ] Mod-added
+- [ ] Mod-added text (e.g. MCM, text in script files)
