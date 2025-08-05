@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <!--Armor exchange typos-->
+    <string id="0_insider">
+		<text>I heard that I can exchange armors here, right? %c[d_orange][Armor Exchange]</text>
+	</string>
+    <string id="1_insider">
+		<text>You heard right, stalker. If you give me armors from different factions, I can find one that's roughly equivalent from our own guys. It's limited by what we have in stock, of course.\n \n
+		Remember, if you give me a broken piece of junk, I'm not going to give you a pristine suit back. This isn't a charity operation. You give me some random junk, I'll give you a scavenged, smelly, broken suit that some other stalker dragged in yesterday. But, if you give me a suit in good shape, I'll give you something that's practically brand new. \n \n
+		Also, this service isn't free. You can check the list of prices over there. Think of it as a fee for the whole service - repairs aren't cheap, you know? And of course, a little extra for our faction to keep running things smoothly. \n\n 
+		So, what type of armor do you want to trade? I'll check if we have something that matches your offer.</text>
+	</string>
+    <!--Outfit types-->
+    <string id="armor_exchange_light">
+		<text>A light outfit (for any light armor). %c[d_orange][ 5000 RU ]</text>
+	</string>
+	<string id="armor_exchange_medium">
+		<text>A medium outfit (for any medium armor). %c[d_orange][ 10 000 RU ]</text>
+	</string>
+	<string id="armor_exchange_specops">
+		<text>A spec ops outfit (medium armored outfit for any medium armor). %c[d_orange][ 25 000 RU ]</text>
+	</string>
+	<string id="armor_exchange_sci">
+		<text>A scientific outfit (for any non armored medium scientific suit). %c[d_orange][ 15 000 RU ]</text>
+	</string>
+	<string id="armor_exchange_skat">
+		<text>A Skat-9 heavy armor (for any Skat-9 armor). %c[d_orange][ 25 000 RU ]</text>
+	</string>
+	<string id="armor_exchange_exolight">
+		<text>An exosuit heavy armor (for any exosuit heavy armor). %c[d_orange][ 30 000 RU ]</text>
+	</string>
+	<string id="armor_exchange_exo">
+		<text>An exoskeleton-powered armor (for any exo armor). %c[d_orange][ 45 000 RU ]</text>
+	</string>
+	<string id="armor_exchange_noso">
+		<text>A Nosorog-class exoskeleton (for any Nosorog armor). %c[d_orange][ 65 000 RU ]</text>
+	</string>
+	<string id="armor_exchange_exit">
+		<text>Actually, nevermind.</text>
+	</string>
+
+    <!-- Marsh dialogues -->
+    <string id="cit_doctor_main_dialog_1">
+		<text>Oh... Looking into the mysteries of the Zone, I see? I might have the information you seek, but I want to make sure you understand what you are asking for.</text>
+	</string>
+    <string id="cit_doctor_main_dialog_11">
+		<text>I'm sure. Go on.</text>
+	</string>
+    <string id="cit_doctor_main_dialog_2">
+	    <text>This quest has led many to their undoing, including dear friends of mine...\n
+        Strelok had a group of elite stalkers with him, and of that group, he is certainly the only member that is still alive. They were investigating some kind of mystery or conspiracy in the Zone. The last time I saw him, he had just come back from that adventure, and my friend had clearly changed. Something or someone clearly changed him... Oh yes...\n
+        There are things out there that do not want to be found - and the Zone itself seems to cover it up. Do you understand?</text>
+	</string>
+    <string id="cit_doctor_main_dialog_4">
+		<text>Very well, young man. When Strelok last came to visit, he gave me a key and coordinates to a stash in Pripyat.\n 
+        He was saying something about the Monolith. I didn't understand much of it and I'm not too sure he did either. Here, take it. \n 
+        One more thing... He spent a lot of time searching for clues of a conspiracy in underground labs. Some kind of secret cover-up, I believe. Perhaps you'll find your answers there.</text>
+	</string>
+
+    <!--Encoding fixes-->
+    <string id="marsh_stalker_medic_about_zone_3">
+        <text>How can I best explain? Let's put it like this: any complicated system in nature, and that includes the Zone, automatically seeks equilibrium in the absence of destabilizing external factors. That was the case here a few years ago - the Zone was stable and there were no significant deviations from the norm... and now? Like you have said, devastating emissions regularly sweep across the Zone. The system became unstable, distorted... a glitch, of sorts. The Zone is spewing out emission after emission and pumping itself full of energy with each one, so much so that the readings on my sensors oscillate with unbelievable speed! Unfortunately, Lebedev and Suslov were unable to reverse this trend permanently, in spite of their tragic sacrifice. The most important lesson in all this is that this "glitch" is not a product of natural causes either. This is all human handiwork.</text>
+    </string>
+
+    <!--Spirit vodka trade-->
+    <string id="meet_povar_army_3">
+		<text>Just a little misunderstanding. The other field assistants around here think I'm an alcoholic. I mean, really? In this day and age, you'd have to be insane not to drink. You think the snorks around here are bad? My friend, Topol, works at a bunker just a short walk from Pripyat! I heard about the Monolith's return and... no, I don't want to think about it. Look, if you happen to get your hands on any Nemiroff, I can hook you up with some good stuff. What do you say?
+		\nI can offer you four 9x18 mags, two mags of 5.45, two mags of 5.56 or two mags of 9x39 for five swigs of Nemiroff.
+		\nFor ten swigs, I can share one mag of 7.62mm 7N1, three boxes of 12x70 shot rounds, four mags of 5.45, four mags of 5.56 or four mags of 9x39, your choice.
+		\nFor fifteen swigs - that's about five full bottles - AND 7000 RU, you get ninety 7.62x54 mm PP rounds. They are quite expensive you know...
+		\nAnd for twenty swigs, just under seven full bottles, I'll get you a set of basic tools. Hey, I'm not a scoundrel - I didn't steal it, it was just lying around in a tent near Cordon a while ago. I've kept them since that day. I'm sure it will come in handy for a stalker like you. Anyways, don't think I'm doing all this business all for myself. I try to get most of the bottles shipped up to Yanov for the boys.</text>
+	</string>
+    <string id="remember_dyx_barter_1">
+		<text>This is what I've got: four mags of 9x18 for five swigs of Nemiroff, two 5.45x39 mags for five swigs, two 5.56x45 mags for five swigs, two 9x39 mags for five swigs, four 5.45x39 mags for ten swigs, four 5.56x45 mags for ten swigs, four 9x39 mags for ten swigs,  three packs of 12x70 for ten swigs, one mag of 7.62x54 7N1 for ten swigs, three box mags for the PKP for five full bottles and seven thousand rubles. For twenty swigs, just under seven full bottles, I'll get you a set of basic tools. Don't worry, they're not stolen. I just picked them up near a tent in Cordon. Finders keepers.</text>
+	</string>
+
+    <!-- Sakharov -->
+    <string id="yan_stalker_sakharov_npc_query_brain_scorcher">
+		<text>Hmm, well...we still have much to learn, but I suppose it won't hurt to share what little we know with you. The Brain Scorcher seems to emit an invasive frequency that affects the mind of any who journey too close to Pripyat's center, the NPP or the wrong side of the Red Forest or even Limansk. The symptoms include migraines, hallucinations, tunnel vision, and without sounding unprofessional, zombification. If I had to give a scientific estimation, I'd identify the Brain Scorcher as a remote psy-transmitter, though I'd have to conduct more invasive research before fully settling on that conclusion. The Miracle Machine or "Brain Lab" has very similar features and also emits psy waves. However, its psy wave emissions are closer to biologically-emitted waves, like the ones that certain mutants can create.</text>
+	</string>
+    <string id="yan_stalker_sakharov_npc_query_psi_helmet">
+		<text>I assume you understand the risk of going through these psychically volatile areas, do you?... Oh, all right, I believe you do. You wouldn't ask me about it otherwise. Well, there is this psy-protective helmet we've been working on carefully over the past few weeks. On paper, everything should work and it has been properly calibrated for the Miracle Machine and Brain Scorcher psy emissions. However, no one has been crazy enough to field test it... Well there was this one assistant that tried an early, uncalibrated, model... But that's a story for another time.\n\n We could grant you this psy-helmet immediately as it is for the modest sum of 30,000 roubles.</text>
+	</string>
+    <string id="yan_stalker_sakharov_player_psi_helmet_2_1">
+		<text>This psy-helmet of yours had better work, or I swear I'll come for you if I wind up as a zombie!</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1">
+		<text>Oh, there's no need for that! We are quite confident that the psy-helmet should work as intended. Simply keep it on you and you should be able to enter the Miracle Machine and the Brain Scorcher without being affected by their particular psy-emissions. Now, it won't help you get past the psy-barrier in the Red Forest and beyond. Those frequencies seem keyed to some kind of installation within the Brain Scorcher. Nor will this psyhelmet help in psy-field anomalies or psychic mutant attacks - those all operate on different sets of frequencies. For those mundane psy-attacks, artefacts are your best chance... or unhealthy amounts of mind-altering drugs. Perhaps Freedom could help you there?</text>
+	</string>
+    <string id="yan_stalker_sakharov_player_psi_helmet_2_2">
+		<text>Alright, here is the money Professor. And, yes, I understand this won't help with the northern barrier, or regular psy anomalies and attacks.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_2">
+		<text>Thank you, stalker. Here is the device. Good luck on your endeavor. We treasure your help in disabling the Miracle Machine and the Brain Scorcher, and the help it will provide for our research.</text>
+	</string>
+
+    <!--Nimble gun trade-->
+    <string id="option_pistol_2_1">
+		<text>A Colt 1911, upgraded to make it hit harder. %c[d_orange][ 50 000 RU ]</text>
+	</string>
+	<string id="option_pistol_2_2">
+		<text>A Colt 1911, upgraded to make it shoot faster. %c[d_orange][ 70 000 RU ]</text>
+	</string>
+	<string id="option_pistol_2_3">
+		<text>A Desert Eagle. %c[d_orange][ 50 000 RU ]</text>
+	</string>
+	<string id="option_pistol_2_4">
+		<text>A USP. %c[d_orange][ 30 000 RU ]</text>
+	</string>
+	<string id="option_cqc_2_1">
+		<text>A Protecta. %c[d_orange][ 30 000 RU ]</text>
+	</string>
+	<string id="option_cqc_2_2">
+		<text>A SPAS-12. %c[d_orange][ 30 000 RU ]</text>
+	</string>
+	<string id="option_cqc_2_3">
+		<text>A TOZ-34. %c[d_orange][ 45 000 RU ]</text>
+	</string>
+	<string id="option_cqc_2_4">
+		<text>An MP5. %c[d_orange][ 65 000 RU ]</text>
+	</string>
+	<string id="option_rifle_2_1">
+		<text>A G36. %c[d_orange][ 45 000 RU ]</text>
+	</string>
+	<string id="option_rifle_2_2">
+		<text>A Groza. %c[d_orange][ 45 000 RU ]</text>
+	</string>
+	<string id="option_rifle_2_3">
+		<text>A PKM. %c[d_orange][ 100 000 RU ]</text>
+	</string>
+	<string id="option_sniper_2_1">
+		<text>A DVL-10 Urbana. %c[d_orange][ 45 000 RU ]</text>
+	</string>
+	<string id="option_sniper_2_2">
+		<text>A DVL-10 Saboteur. %c[d_orange][ 45 000 RU ]</text>
+	</string>
+	<string id="option_sniper_2_3">
+		<text>An SVU. %c[d_orange][ 45 000 RU ]</text>
+	</string>
+	<string id="convo_exit">
+		<text>Actually, nevermind.</text>
+	</string>
+</string_table>

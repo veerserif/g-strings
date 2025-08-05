@@ -32,9 +32,6 @@
     <string id="recover_mutant_data_device_desc">
 		<text>A sturdy device that was planted on a mutant to monitor its movements, habits and vital signs. Shows signs of corrosion, and is covered in numerous bite and scratch marks.\n\n
         %c[pda_white]PROPERTIES:\n
-        %c[d_cyan] • %c[pda_white] Quest item  </text>
-	</string>
-	<string id="recover_mutant_data_device_name">
-		<text>Tracking Device</text>
+        %c[d_cyan] â€¢ %c[pda_white] Quest item  </text>
 	</string>
 </string_table>
