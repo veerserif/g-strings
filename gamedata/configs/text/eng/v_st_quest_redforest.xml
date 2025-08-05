@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!-- Dazhbog toolkits -->
+    <string id="red_greh_tech_task_1_fetch_finish">
+		<text>You've done well. Come back tomorrow and I will have expanded my stock for you.</text>
+	</string>
+    <string id="red_greh_tech_task_2_fetch_finish">
+		<text>Good. You've brought them to me. You serve us well. This will not be forgotten. Return tomorrow and I will once again expand my stock.</text>
+	</string>
+    <string id="red_greh_tech_task_3_fetch_finish">
+		<text>Good. You've brought them to me as asked. Your devotion deserves a reward. I will give you access to the finest of my stock.</text>
+	</string>
+</string_table>

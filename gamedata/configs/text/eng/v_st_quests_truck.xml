@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <!-- Truck Cemetary mechanic -->
+    <string id="trucks_cemetery_bandit_mechanic_task_1_fetch_finish">
+		<text>Oooh, yeah. That's what I'm talkin' about! Tell ya what...since you helped me out, I'll let you have a look at some of the nicer stuff.</text>
+	</string>
+    <string id="trucks_cemetery_bandit_mechanic_task_2_fetch_finish">
+		<text>Oh, fuck. You're the best, man. Come back tomorrow - I've got a couple pieces saved from the last shipments that I think you'll like.</text>
+	</string>
+    <string id="trucks_cemetery_bandit_mechanic_task_3_fetch_finish">
+		<text>Wow, you actually fuckin' did it! Thanks, pal. You're the best. Tell you what, a top-shelf guy like you deserves some top-shelf goods. Come back tomorrow! I guarantee you'll like what I've got.</text>
+	</string>
+</string_table>
