@@ -46,7 +46,7 @@
             %c[pda_white]PROPERTIES:\n
             %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>
-	<!------------------- Items Tips ------------------------->
+	<!-- Items Tips -->
 
 	<string id="st_sl_hidden_threat_radio_tips_1">
 	    <text>Plant the recorder($$ACTION_USE$$)</text>

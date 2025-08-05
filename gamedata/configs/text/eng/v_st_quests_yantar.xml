@@ -34,7 +34,4 @@
         %c[pda_white]PROPERTIES:\n
         %c[d_cyan] • %c[pda_white] Quest item  </text>
 	</string>
-	<string id="recover_mutant_data_device_name">
-		<text>Tracking Device</text>
-	</string>
 </string_table>

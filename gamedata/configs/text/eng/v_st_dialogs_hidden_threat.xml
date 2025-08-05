@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="windows-1251" ?>
-<!--
-    Storyline: Hidden Threat
-	Version:   1.0
-    Autor:     Longreed
-	Last Edit: 01/11/2021
--->
 <string_table>
-    <!------------- Полковник Кузнецов(Агропром) ----------------->
 	<!-- D1 -->
     <string id="st_sl_hidden_threat_dialog_kuznetsov_d1_first_1">
         <text>Greetings, Comrade Colonel! Military stalker %s has arrived at your command!</text>
@@ -99,7 +92,7 @@
 	<string id="st_sl_hidden_threat_dialog_kuznetsov_d7_1_1">
 	    <text>There's an SSU major here, and I can confirm his identity. Moreover, I contacted Degtyarev, he was very surprised and alarmed by this major's appearance at the base. The major told the colonel the code "red 2." I don't know what that means, but I received an unprecedented order from Degtyarev to fully comply with the SSU major's instructions. There's a big operation going on, you'll get the details from the major.</text>
 	</string>
-	<!--------------- Выживший сталкер(Кордон) ------------------->
+	<!--Survivor-->
 	<string id="st_sl_hidden_threat_dialog_survived_first_1">
 	    <text>Eh... what happened... what's going on... </text>
 	</string>
@@ -121,7 +114,6 @@
 	<string id="st_sl_hidden_threat_dialog_survived_5_1">
 	    <text>Hmm. That's not much to go on. Thanks anyway. So long, stalker.</text>
 	</string>
-	<!--------------- Сержант Ложкин(Агропром) ------------------->
 	<!-- D1 -->
     <string id="st_sl_hidden_threat_dialog_spooner_d1_first_1">
 	    <text>Listen, I heard a rumour that you're going to Cordon. I have a favor to ask of you. Take the accounting reports to Major Zhurov at the southern roadblock, if it's on your way. What do you say? The major will owe you one.</text>
@@ -180,7 +172,6 @@
 	<string id="st_sl_hidden_threat_dialog_spooner_d4_13_1">
 	    <text>Nevermind.</text>
 	</string>
-	<!----------------- Майор Журов(Кордон) ---------------------->
 	<string id="st_sl_hidden_threat_dialog_jurov_first_1">
 	    <text>Comrade Major! I have brought the documents from Agroprom.</text>
 	</string>
@@ -193,7 +184,6 @@
 	<string id="st_sl_hidden_threat_dialog_jurov_4_1">
 	    <text>As a favor, I can give you an exclusive truce for two hours. The stalkers will let you get close and go to their bases, but if you start shooting at them, the truce is over. Off you go, I'll take care of it.</text>
 	</string>
-	<!----------- Ст.лейтенант Кириллов(Агропром) ---------------->
 	<!-- D1 -->
 	<string id="st_sl_hidden_threat_dialog_kirillov_d1_first_1">
 	    <text>Soldier, I have a personal favor to ask of you. One of the guys in our Dark Valley unit guarding the facility has a broken radio. They asked me to send a new one. I need a courier. Can you do it?</text>
@@ -214,7 +204,6 @@
 	<string id="st_sl_hidden_threat_dialog_kirillov_d3_2_1">
 	    <text>Annotated maps, huh? Fuck the PDA, don't worry about it. I'm going to see the colonel. Goodbye and thank you.</text>
 	</string>
-	<!-------- Рандомный командир отряда(Темная долина) ---------->
 	<string id="st_sl_hidden_threat_dialog_val_leader_squad_first_1">
 	    <text>Greetings military-stalker, what brings you here?</text>
 	</string>
@@ -224,7 +213,6 @@
 	<string id="st_sl_hidden_threat_dialog_val_leader_squad_3_1">
 	    <text>No need to thank me.</text>
 	</string>
-	<!----------- Майор Эрнандес(Окраины Припяти) ---------------->
 	<!-- D1 -->
 	<string id="st_sl_hidden_threat_dialog_isg_leader_d1_first_1">
 	    <text>You seem like a smart guy. You've sabotaged two of our operations, we could use someone like you. You work for us, we'll keep you safe. Evacuation from the Zone, a tidy sum in an account in any country in the world. Not like you've got much of a choice.</text>
@@ -248,14 +236,12 @@
 	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_5_1">
 	    <text>...</text>
 	</string>
-	<!----------- Лейтенант Годунов(Окраины Припяти) ------------->
 	<string id="st_sl_hidden_threat_dialog_isg_agent_d1_first_1">
 	    <text>Listen carefully! I'm an SSU major. Normally, I wouldn't risk my cover with the ISG by saving your sorry skin. But it looks like today's your lucky day. Our whole operation is screwed up. ISG somehow got wind of a stalker they weren't supposed to know about, and found out that Degtyarev's meeting with him. They sent a special group to eliminate Degtyarev and capture that stalker. The meeting will take place in the hostel. ISG plans to go in from the back entrance, flush out Degtyarev and his men, and ambush them with a sniper in the courtyard. The ISG sniper is positioned in the opposite.\n You owe me your life! You can repay me by warning the Colonel about this trap. Remember the passphrase: "Death does not wait, nor should life wait." Without the phrase, Degtyarev might put a bullet in your forehead, just in case. I've also got a stash of intel that I can't transfer - ISG are tapping all the frequencies. I hid a hard copy in a case in the department store, and I've been waiting for the right opportunity. You are my opportunity. You'll tell Degtyarev about the case in the department store. Do you understand?</text>
 	</string>
 	<string id="st_sl_hidden_threat_dialog_isg_agent_d1_1_1">
 	    <text>Yes, I'll warn the Colonel and tell Degtyarev about the case. And... thank you.</text>
 	</string>
-	<!---------- Полковник Дегтярёв(Окраины Припяти) ------------->
 	<!-- D1 -->
 	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_first_1">
 	    <text>So, stalker, you have one chance to convince me you're in the right place. Or are you in over your head?</text>
@@ -319,7 +305,6 @@
 	<string id="st_sl_hidden_threat_dialog_degtyarev_d6_1_1">
 	    <text>Good work. We've finished analyzing the footage. The ISG has established a black market channel through the mercenaries. In the house where you set up the recorder, they were trading weapons and ammunition for artifacts. Well... the UN won't like that their pet organization is a smuggling ring. We have the information we need and it's time for our diplomatic corps to get to work. I'm going back to the mainland, and you're temporarily at Kuznetsov's disposal until I return.</text>
 	</string>
-	<!--------------- Майор Верещагин(Агропром) ------------------>
 	<!-- D1 -->
 	<string id="st_sl_hidden_threat_dialog_vereshagin_d1_first_1">
 	    <text>Let me tell you the facts. You guys fucked things up, so I had to step in. While you were messing around with the CNPP group, which was also a distraction, their main squad, along with their eggheads, got into the X-8 lab and apparently found something they didn't like. So, Hernandez, the head of the ISG force in the Zone, ordered everyone to wrap up and leave. You know what that means, stalker? Things are heating up. The head of SSU has given the go-ahead to liquidate the ISG headquarters. They'd rather not let the information they worked to hard to get slip through their fingers. Ukraine will face diplomatic consequences after this, but that is much less important letting the ISG escape with their intel, back to the UN.\n ISG chose a great hiding spot for their base, but it's not well defended. We have trapped them between the Pripyat Outskirts and Jupiter. Now it's time to catch the mouse in our mousetrap. You're leading an assault team of experienced fighters to clean up this rat's nest. You go in, and shoot anyone who shoots back. Unless you're scared and you'd rather run home to Mama?</text>
@@ -351,6 +336,6 @@
 	    <text>The stalkers inside the building didn't immediately realize what was happening, and were attacked from two entrances. They didn't put up a fight. 5.56x45 NATO shell casings... looks like mercenaries. Hmm... the attack was two days ago, and the coals in the fire are still warm. The attackers were camped here, and we've just missed them. Whoever it was, they're not here anymore, so it's time to get back to Kuznetsov.</text>
 	</string>
 	<string id="encyclopedia__notes_note_from_spooner_text">
-		<text> \Lozhkin proposes an exchange: I take 300 rounds of 9x19 ammo, I give you 320 rounds of 9x18; I take 300 rounds of 5.56x45 ammo, I give you an equal amount of 5.45x39; I take 280 rounds of .45 ammo, I will give 90 rounds of 9x39 ammo in return; \n - I will take 300 rounds of 7.62x51 ammo, I will give an equal amount of 7.62x54 ammo in return; \n - I will take 5 M203 grenades, I will give an equal amount of VOG-25 grenades in return. </text>
+		<text> Lozhkin proposes an exchange:\n - I take 300 rounds of 9x19 ammo, I give you 320 rounds of 9x18;\n - I take 300 rounds of 5.56x45 ammo, I give you an equal amount of 5.45x39;\n - I take 280 rounds of .45 ammo, I will give 90 rounds of 9x39 ammo in return; \n - I will take 300 rounds of 7.62x51 ammo, I will give an equal amount of 7.62x54 ammo in return; \n - I will take 5 M203 grenades, I will give an equal amount of VOG-25 grenades in return. </text>
 	</string>
 </string_table>

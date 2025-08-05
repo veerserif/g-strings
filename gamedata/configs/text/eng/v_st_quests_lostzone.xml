@@ -21,16 +21,10 @@
 	</string>
 
 <!-- Living Legend -->
-    <string id="strelok_notes_name">
-		<text>Strelok's Notebook</text>
-	</string>
 	<string id="strelok_notes_desc">
 		<text>This notebook used to belong to Strelok. A quick read reveals many rather disjointed and cryptic notes. Seems the stalker had a crisis about an important decision he had made a few years ago, and wanted to quickly resupply at Rostok before pushing north to verify his choices.\n\n
         %c[pda_white]PROPERTIES:\n
         %c[d_cyan] • %c[pda_white] Quest item</text>
-	</string>
-    <string id="item_doc_x8_ll_name">
-		<text>X-8 Documents</text>
 	</string>
 	<string id="item_doc_x8_ll_desc">
 		<text>These documents briefly touch on the results of extensive experiments in psy-research conducted by an unknown group. Most notably, the results seem to confirm the existence of an intangible field of psychic energy which envelops the Earth.\n \n
@@ -57,7 +51,7 @@
 
 <!-- Mortal Sin -->
     <string id="vodnik_notes_name">
-		<text>Vodnik's Notes</text>
+		<text>Vodnik's notes</text>
 	</string>
 	<string id="vodnik_notes_desc">
 		<text>"Many have joined our cause, whether they understood the magnificence of the Zone from the beginning, or required some explanation. I envy the Founders; they were created by the Masters themselves, they could witness the birth of Vyraj! But they cleansed us, judging us worthy, and they'll cleanse our new brothers. Together, we'll spread the word across the whole world."\n\n
@@ -75,7 +69,7 @@
         %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>
     <string id="drekavac_notes_name">
-		<text>Drekavac's Notes</text>
+		<text>Drekavac's notes</text>
 	</string>
 	<string id="drekavac_notes_desc">
 		<text>"Finally, after several years of arduous preparation, we can continue the Masters' plan. It's regrettable that so many people don't believe us, but sometimes words aren't enough. They're blinded by base human desires. If they insist on continuing their violent ways, we'll treat them with violence. Maybe then they will understand. The seed of Vyraj is budding, and I'm here to spread the paradise further and further beyond. I am the tip of the spear."\n\n
@@ -83,7 +77,7 @@
         %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>
     <string id="contact_lost_pda_name">
-		<text>Scout Team Leader's PDA</text>
+		<text>Scout team leader's PDA</text>
 	</string>
 	<string id="contact_lost_pda_desc">
 		<text>This PDA used to belong to the leader of the scout team. He had managed to record some information about the enemy forces before his untimely demise.\n\n
@@ -91,7 +85,7 @@
         %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>
     <string id="chernobog_notes_name">
-		<text>Chernobog's Notes</text>
+		<text>Chernobog's notes</text>
 	</string>
 	<string id="chernobog_notes_desc">
 		<text>"The Zone is a miracle. The Masters cleansed us. Soon, we thought, the Zone would cleanse the world. But no. Our small paradise was soon trespassed upon by the flawed people of a sinful world. And, in an act of unthinkable atrocity, the beast named Strelok crippled the valiant Monolith, and entered the Masters' chambers to slay their mortal forms. However, I shall not despair. I cannot let this miracle be consumed by the vice and filth of the unworthy. So we, Sin, must embark upon a quest to fulfil the Masters' wish. We shall wage war upon the violent to bring about eternal peace."\n\n
@@ -101,7 +95,7 @@
 
     <!-- Operation Afterglow -->
     <string id="decryption_radio_name">
-		<text>Decryption Radio</text>
+		<text>Decryption radio</text>
 	</string>
 	<string id="decryption_radio_desc">
 		<text>This unassuming military-grade radio can intercept and decrypt nearby transmissions.\n\n
@@ -116,16 +110,13 @@
         %c[pda_white]PROPERTIES:\n
         %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>
-    <string id="special_delivery_case_name">
-		<text>Sealed Case</text>
-	</string>
 	<string id="special_delivery_case_desc">
 		<text>A sealed case with undisclosed contents. Rather heavy.\n\n
         %c[pda_white]PROPERTIES:\n
         %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>
     <string id="st_army_isg_spy_pendrive_name">
-		<text>Undercover Agent's Flash Drive</text>
+		<text>Undercover agent's flash drive</text>
 	</string>
 	<string id="st_army_isg_spy_pendrive_descr">
 		<text>According to Degtyarev's somewhat cryptic briefing, the spy among UNISG has been collecting some information on their goals and movements, as well as evidence that could place legal or political pressure on the UN troops to leave the Zone. Obviously encrypted.\n\n
@@ -133,7 +124,7 @@
         %c[d_cyan] • %c[pda_white] Quest item</text>
 	</string>
     <string id="jupiter_documents_name">
-		<text>Jupiter Factory Documents</text>
+		<text>Jupiter factory documents</text>
 	</string>
 	<string id="jupiter_documents_desc">
 		<text>Presumably the last documents which contain secret information left in the factory. Better not let them fall into the hands of foreign agents.\n\n
