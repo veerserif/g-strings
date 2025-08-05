@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_sl_ht_accounting_report_desc">
+		<text>A weighty folder with financial statements for the current month, written by Sergeant Lozhkin for Major Zhurov.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>
+	<string id="st_sl_ht_spooner_quest_package_name">
+		<text>Lozhkin's parcel</text>
+	</string>
+	<string id="st_sl_ht_spooner_quest_package_desc">
+		<text>A courier delivery package. Sergeant Lozhkin is expecting this. Oddly enough, it has no protection at all against tampering by outsiders.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item </text>
+	</string>
+
+	<string id="st_sl_ht_walkie_talkie_desc">
+		<text>Portable VHF radio R-002PP.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>
+	<string id="st_sl_ht_pda_isg_leader_name">
+		<text>ISG commander's PDA</text>
+	</string>
+	<string id="st_sl_ht_pda_isg_leader_desc">
+		<text>This PDA is encrypted. A technician might be able to hack it.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>
+
+	<string id="st_sl_ht_usb_quest_task_4_desc">
+		<text>This storage device contains a small part of the information Kirillov managed to save from the ISG commander's PDA.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>
+
+	<string id="st_sl_ht_case_quest_task_5_desc">
+		<text>This briefcase contains hard copies of the SSU's investigation into ISG activities.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>
+
+	<string id="st_sl_ht_voice_recorder_task_6_desc">
+		<text>This voice recorder has been upgraded by Senior Lieutenant Kirillov. It will start recording when it detects a conversation.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>
+	<!------------------- Items Tips ------------------------->
+
+	<string id="st_sl_hidden_threat_radio_tips_1">
+	    <text>Plant the recorder($$ACTION_USE$$)</text>
+	</string>
+
+</string_table>

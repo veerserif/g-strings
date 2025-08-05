@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="drx_sl_trader_monolith_kbo_task_1_text">
+		<text>Eliminate the intruders at any cost.</text>
+	</string>
+    <string id="monolith_eidolon_task_1_about">
+		<text>We are besieged. Infidels wish to exploit the almighty Monolith. Driven by avarice. Ignorance. Base desires. On behalf of the Monolith, we act as guardians. Purge the infidels. Collect their badges, as a trophy. A sign of our unquestionable, superiority. Go, brother. Destroy them all.</text>
+	</string>
+    <string id="monolith_eidolon_task_1_fetch_about">
+		<text>We are besieged. Infidels wish to exploit the almighty Monolith. Driven by avarice. Ignorance. Base desires. On behalf of the Monolith, we act as guardians. Purge the infidels. Collect their badges, as a trophy. A sign of our unquestionable, superiority. Go, brother. Destroy them all. Acquire %s on your mission.</text>
+	</string>
+    <string id="monolith_eidolon_task_1_fetch_finish">
+		<text>Such devotion to our glorious cause. Devotion shall be rewarded.</text>
+	</string>
+    <string id="monolith_eidolon_task_2_about">
+		<text>Dangerous, lethal beasts. A gift of the Zone, for us to behold. For us to take. Guardians, providers, as well as a milestone. A way to test our strength, resolve, and combat prowess. Go, brother. Hunt a mighty hunter. Man versus beast.</text>
+	</string>		
+	<string id="monolith_eidolon_task_2_fetch_about">
+		<text>Dangerous, lethal beasts. A gift of the Zone, for us to behold. For us to take. Guardians, providers, as well as a milestone. A way to test our strength, resolve, and combat prowess. Go, brother. Hunt a mighty hunter. Man versus beast. Collect %s to prove your worth.</text>
+	</string>
+    <string id="monolith_eidolon_task_3_fetch_finish">
+		<text>Excellent. Marvellous. A sight to behold. You have my gratitude, loyal brother.</text>
+	</string>
+    <string id="monolith_eidolon_task_4_about">
+		<text>There exist document, which speak of the wonders of the Zone. In detail. Secret knowledge, which the infidels must not know. Recover the documents. Bring them to me, and I shall reward you.</text>
+	</string>
+	<string id="monolith_eidolon_task_4_finish">
+		<text>The Zone is safer, because of you.</text>
+	</string>
+    <string id="pri_monolith_monolith_trader_stalker_task_4_text">
+		<text>Hunt for %s and return the meat to Rabbit.</text>
+	</string>
+
+    <!-- Cleric tools -->
+    <string id="pri_monolith_monolith_mechanic_stalker_task_1_about">
+		<text>I need you to do something for me. I need specific tools to tune our weapons.</text>
+	</string>
+    <string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_about">
+		<text>Okay, I need a %s. Go, now.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish">
+		<text>You've done well. You are entitled to a greater selection of stock.</text>
+	</string>
+    <string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_about">
+		<text>I need a set of advanced tools. Bring them to me and serve the Monolith. Better supplies will be your reward.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
+		<text>Good. YThis is what I needed. Return tomorrow and you will gain access to more tools to serve the will of the Monolith.</text>
+	</string>
+    <string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish">
+		<text>Good. This is what I needed. Thank you, brother. You will have access to every tool needed to become the perfect expression of Monolith's will.</text>
+	</string>
+
+    <!--Yublieny mechanic-->
+    <string id="mechanic_monolith_kbo_task_1_fetch_finish">
+		<text>Excellent work, brother. Your contributions have entitled you to supplies reserved for those who have proven their resourcefulness.</text>
+	</string>
+    <string id="mechanic_monolith_kbo_task_2_fetch_finish">
+		<text>Excellent work, brother. Your contribution will grant you additional access to our stores. You have served well.</text>
+	</string>
+    <string id="mechanic_monolith_kbo_task_3_fetch_finish">
+		<text>Outstanding work, brother. Rest assured, I will mention your contribution to our brothers. I will provide you with the finest implements for you to cleanse the Zone of infidels.</text>
+	</string>
+
+    <!-- Mercenary work-->
+    <string id="merc_pri_a18_mech_mlr_task_1_fetch_finish">
+		<text>Thank you. Things won't be as stressful for the guys around here anymore. For your hard work, I'll give you access to some better stock.</text>
+	</string>
+    <string id="merc_pri_a18_mech_mlr_task_2_fetch_finish">
+		<text>Well done. Now I have a full set. Hey, you seem like the discerning type. As a reward, I'll make sure you get access to some real top-shelf supplies.</text>
+	</string>
+</string_table>

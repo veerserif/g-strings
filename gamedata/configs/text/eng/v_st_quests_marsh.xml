@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+    <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_about">
+		<text>One of our agents managed to capture important documents from the military, but he was killed before he could bring them back. They are currently hidden in the tunnels below Agroprom. I need you to covertly infiltrate the area and find them before the military does. Return them here at once when you have found them. Good luck to you.</text>
+	</string>
+    <string id="drx_sl_mar_base_stalker_barmen_default_task_about">
+		<text>I know of someone who could use your services. Go see him, he pays well.</text>
+	</string>
+
+    <string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_title">
+		<text>Defend the Pump Station from Bandits</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_descr">
+		<text>One of our patrols captured some bandits fucking around the pump station. After a good beating they confessed they're preparing an assault. We don't know when they'll hit, I already sent some guys over there but any help is welcome... and will be rewarded, of course.</text>
+	</string>
+
+    <!--Kalancha medkit-->
+    <string id="mar_smart_terrain_base_doctor_task_5_about">
+		<text>Trying to treat our men with our dwindling supplies is a balancing act that's hard to maintain. Sooner or later, we will run out of medical supplies. Please, help me by finding a drug-making kit.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_5_fetch_about">
+		<text>There is. I've been looking all over for a %s. It should contain some precursor chemicals that will let me synthesize common medicines. I'll pay you for one of these kits if you can bring a full set back to me.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_5_fetch_finish">
+		<text>Excellent! This will help alleviate our supply woes.</text>
+	</string>
+
+    <string id="mar_base_owl_stalker_trader_task_2_name">
+		<text>Destroy the Helicopter</text>
+	</string>
+    <string id="mar_base_stalker_barmen_task_1_name">
+		<text>Clear Area of Mutants</text>
+	</string>
+    <string id="mar_base_stalker_barmen_task_2_name">
+		<text>Assault the Bandit Camp</text>
+	</string>
+    <string id="mar_base_stalker_barmen_task_3_fetch_about">
+		<text>Rations are running low, and I need to keep the camp's bellies full. Some of the guys bring me back a kill or two every now and again. But it's been slow lately... So if you aren't too busy and you are out and about, I need %s. I process the meat, right here in my kitchen. Keep in mind that getting the mutants all riled up makes the meat tough because of the adrenaline. Also, the less bleeding, the better the meat tastes. So, be careful with your shots, okay?</text>
+	</string>
+    <!-- Novikov tools -->
+    <string id="mar_base_stalker_tech_task_1_text">
+		<text>Novikov needs %s to install basic equipment upgrades.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish">
+		<text>Awesome, man! Here, take this money for your trouble. Next time you're here, I'll make sure you get the good stuff, too.</text>
+	</string>
+    <string id="mar_base_stalker_tech_task_2_text">
+		<text>Novikov needs %s to install advanced equipment upgrades.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish">
+		<text>Awesome, man! You came through for me once again! I'll pick out some nice stuff for you after my next restock, for your dedication.</text>
+	</string>
+    <string id="mar_base_stalker_tech_task_3_text">
+		<text>Novikov needs %s to install expert equipment upgrades.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_finish">
+		<text>Awesome, man! I really appreciate you. In thanks, you'll get access to the VIP stash.</text>
+	</string>
+
+    <!-- MARSH DOCTOR VISIT LABS -->
+	<string id="st_main_1_search_agr_ug_name">
+		<text>Investigate the Agroprom Underground</text>
+	</string>
+	<string id="st_main_1_search_agr_ug_text">
+		<text>Investigate the Agroprom Underground and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_2_search_labx18_name">
+		<text>Investigate Laboratory X18</text>
+	</string>
+	<string id="st_main_2_search_labx18_text">
+		<text>Investigate Laboratory X18 and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_3_search_labx16_name">
+		<text>Investigate Laboratory X16</text>
+	</string>
+	<string id="st_main_3_search_labx16_text">
+		<text>Investigate Laboratory X16 and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_4_search_labx10_name">
+		<text>Investigate Laboratory X19</text>
+	</string>
+	<string id="st_main_4_search_labx10_text">
+		<text>Investigate Laboratory X19 and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_5_search_labx8_name">
+		<text>Investigate Laboratory X8</text>
+	</string>
+	<string id="st_main_5_search_labx8_text">
+		<text>Investigate Laboratory X8 and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_name">
+		<text>Investigate the Jupiter Underground</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_text">
+		<text>Investigate the Jupiter Underground and search for hard evidence of a conspiracy.</text>
+	</string>
+</string_table>

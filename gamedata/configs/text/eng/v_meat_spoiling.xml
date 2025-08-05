@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="st_rotten_meat_raw_descr">
+		<text>Raw mutant meat, which was not cooked in time. After two days have passed, this lump of stinky meat is beyond saving. It has no use except to sell or throw away.\n\n
+            %c[ui_red]WARNING: Spoiled meat
+        </text>
+    </string>
+    <string id="st_rotten_meat_cooked_descr">
+	    <text>A Zone-produced meal, which was not consumed in time. After five days have passed, this disgusting bowl of rot is beyond saving. It has no use except to sell or throw away.\n\n
+            %c[ui_red]WARNING: Spoiled meat 
+        </text>
+	</string>
+    <string id="st_rotten_meat_snork_descr">
+        <text>A rotten snork hand, which was not cooked in time. It has no use except to sell or throw away.\n\n
+            %c[ui_red]WARNING: Spoiled meat
+        </text>
+    </string>
+</string_table>

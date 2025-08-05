@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="set_spawn_button">
+        <text>Set spawn location</text>
+    </string>
+
+    <string id="st_soulslike_your_items">
+        <text>Stash (your lost items)</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_initial_generic">
+        <text>When you wake up, you find yourself in a familiar place, with no idea how you got here.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_food_generic">
+        <text>Looking for your things, you find someone left you something to eat and drink.</text>
+    </string>
+
+    <string id="st_soulslike_rescuer_radio_generic">
+        <text>You also find a note explaining your gear is in a hidden stash. To find it, use an RF receiver set to the frequency %s to track it down. It will start beeping once you're close enough.</text>
+    </string>
+</string_table>
