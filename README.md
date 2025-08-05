@@ -31,11 +31,11 @@ For all items:
   - [ ] Mod-added quest text
 - Quest dialogues
   - [x] Vanilla quest dialogues
-  - [ ] Mod-added quest dialogues
+  - [x] Mod-added quest dialogues
 - Non-quest dialogues
   - [ ] Vanilla dialogues
   - [ ] Mod-added dialogues
-- PDA text (achievements, encyclopedia, guide)
+- PDA text (achievements, encyclopedia, guide, dynamic news)
   - [ ] Vanilla
   - [ ] Mod-added
 - UI text strings
