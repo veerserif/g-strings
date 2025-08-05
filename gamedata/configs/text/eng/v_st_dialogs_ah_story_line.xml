@@ -1,0 +1,88 @@
+<?xml version = "1.0" encoding = "windows-1251"?>
+<string_table>
+
+<!-- General -->
+	<string id = "story_line_dialog_1">
+		<text> Here are the coordinates of the anomalies. Inspect them with a detector. I'm interested in any samples you find in them. </text>
+	</string>
+	<string id = "story_line_answer_1">
+		<text>I see. </text>
+	</string>	
+	<string id = "story_line_dialog_2">
+		<text>As you probably already guessed, I work with the scientific group of the Institute for the Study of the Chernobyl Anomalous Zone. Artefacts are invisible to the human eye, but the frequency emitted by them can be detected by detectors. </text>
+	</string>
+	<string id = "story_line_answer_2">
+		<text>Well, I knew that. </text>
+	</string>	
+	<string id = "story_line_dialog_3">
+		<text> Each artefact emits energy at a unique frequency. It's like a fingerprint, an author's signature on a work of art. The wider the scanning range of the detector, the more artefacts it can find. As a rule, stalkers are looking for artefacts with outstanding properties. Meanwhile, all samples from anomalies are of interest to science. </text>
+	</string>
+
+	<string id = "story_line_dialog_4">
+		<text> As you know, Arrow managed to unravel the secret of the origin of the Zone. This information is now available to many scientists. This has greatly advanced our understanding of the amazing nature of anomalies, how they affect living organisms and the world around us. Now we are collecting practical observations and measurements from the field. We are looking for help from experienced stalkers who understand the Zone. </text>
+	</string>
+
+	<string id = "story_line_dialog_5">
+		<text> The rupture of the noosphere - the second explosion - caused the creation of the anomalous Zone. Psy-field lines, like tentacles, envelop this territory. Every object that is in the Zone is affected by them. Even you are already marked by them. What can we say about the artefacts that are born deep in the Zone? They are an amazing gift that not everyone can appreciate. And it's not just about how much money they're worth. Artefacts are messengers of the Zone, through which it communicates with us. We need them, more than you would think. </text>
+	</string>
+	<string id = "story_line_answer_5">
+		<text>That's a nice story, but what can they do for me?</text>
+	</string>	
+	<string id = "story_line_dialog_6">
+		<text> Each artefact has a unique modulation, even if they are of the same type. Each one tells us something about the mysteries of the noosphere. The crudest thing you can do with them is to tie them to your belt, and pray they will save you from bullets or anomalies. We are just beginning to find answers to the Zone's mysteries. We plan to compile a full spectrogram of the Zone, for which we must travel every inch of it. </text>
+	</string>
+	<string id = "story_line_answer_6">
+		<text> Well, what am I doing? You've already worn me down. </text>
+	</string>	
+	<string id = "story_line_dialog_7">
+		<text> Ever wondered what artefacts are made of? Most often, these are the remains of living beings caught in anomalies. So the next time you decide to show off a rare find, remember, it could be the remains of some unfortunate stalker. Well, or a boar, who knows. </text>
+	</string>
+	<string id = "story_line_answer_7">
+		<text> I'm not the type to show off my finds. </text>
+	</string>	
+	<string id = "story_line_dialog_8">
+		<text>One theory says that anomalies are a break in space-time, where the physical laws of our world stop working. But another theory says they are a powerful signal that we simply cannot decode. Who is sending them and why? Or maybe it's just cosmic noise, some static we cannot comprehend? </text>
+	</string>	
+	<string id = "story_line_answer_8">
+		<text>So long as the Zone doesn't explode again. </text>
+	</string>	
+	<string id = "story_line_dialog_9">
+		<text>Anomalies most often choose organic materials as a foundation for artefacts. For example, when a wild animal or zombie dies within them. If you know the exact place of origin of the artefact, you can read it like a book or a flash drive. </text>
+	</string>
+	<string id = "story_line_answer_9">
+		<text> I hope you aren't going to throw organics at anomalies next? </text>
+	</string>	
+	<string id = "story_line_dialog_10">
+		<text> We do not buy artefacts from stalkers or bandits. Without knowing their exact place of origin, they are useless to us. Our task is to collect samples from every corner of the Zone. </text>
+	</string>	
+
+	<string id = "story_line_dialog_11">
+		<text> Every artefact, even those of the same type, has a unique radiation signature depending on where it was found. The Zone leaves a unique imprint on each of them, which cannot be confused with anything else. Using the full spectrum of radiation, we can make a psionic map of the Zone. It would let us understand the origins of the disturbances that created the Zone. Or maybe manage them. </text>
+	</string>	
+
+	<string id = "story_line_dialog_12">
+		<text> Thanks to you, our computing cluster is busy with calculations around the clock. We'll be analyzing it for years to come. Despite all the risks, it was the right decision to divide the team across the entire area. Our leader, Academician Skabinsky, acted with foresight. It is impossible for one person to completely comprehend such a large structure. Only by pooling our knowledge could we succeed. </text>
+	</string>	
+	<string id = "story_line_answer_12">
+		<text> I'm happy for you. </text>
+	</string>	
+	<string id = "story_line_dialog_13">
+		<text> Thank you for being with us. Usually the stalkers who help us tend to disappear. The preliminary analysis of the spectrogram is full of surprises. It looks like the center of the Zone has been under our noses all this time. Our colleague did not wait for the final calculations and has already moved there. But I'm still inclined to finish making the map. I have a few more samples. </text>
+	</string>	
+	<string id = "story_line_answer_13">
+		<text> This job will never end. </text>
+	</string>	
+	<string id = "story_line_dialog_14">
+		<text> Our business together is drawing to an end. Soon we will prove that we deserve to take our place ... You know that there is a massive anomaly in the center of the Zone, and all the psy-lines intersect there? An artefact that will be born in this unique place, and it will have unique properties. The Zone will finally speak to us. </text>
+	</string>	
+	<string id = "story_line_answer_14">
+		<text>The Zone will speak? </text>
+	</string>	
+	<string id = "story_line_dialog_15">
+		<text> Sad news. Our brother stopped communicating. There is no reason to hope for the best, most likely he died. There is a massive anomaly in the center of the Zone. It is almost impossible to pass through. We will need to think about how to solve this problem, and clarify our calculations. </text>
+	</string>	
+	<string id = "story_line_answer_15">
+		<text> In the Zone, you always have to think before you act. </text>
+	</string>	
+	
+</string_table>

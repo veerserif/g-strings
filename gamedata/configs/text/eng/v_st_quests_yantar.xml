@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <!--Sakharov tasks-->
+    <string id="drx_sl_yan_stalker_sakharov_task_1_about">
+		<text>Ah, yes, I'm glad you're here. One of my researchers just returned from the field. He had to abandon his notes after being attacked by mutants. He is too scared to go back there. I need that research, stalker. Please retrieve it for me, I will gladly compensate you for your trouble.</text>
+	</string>
+    <string id="drx_sl_yan_stalker_sakharov_task_4_about">
+		<text>Splendid! Please take this new scanner. We use these devices to scan anomalous acitivites during our scientific expeditions. One of the most interesting anomalies in the Zone is the Symbiont Anomaly, found deep inside the Red Forest. We want this scanner to be installed near that anomaly. It will help us to learn more about it's activity.
+		\nThe location is dangerous, but hopefully it won't be an issue for a capable stalker like you. Please install it there for me, I will gladly compensate you for your trouble.</text>
+	</string>
+    <!--Semenov research hunt-->
+    <string id="yan_ecolog_semenov_task_1_text">
+		<text>Escort Assistant Semenov around the local area and eliminate five different kinds of mutants for him.</text>
+	</string>
+    <string id="yan_ecolog_semenov_task_1_about">
+		<text>I'm doing a study on the mutant ecosystem here, but I need a hand collecting fresh tissue samples and readings. Could you take me with you and eliminate, say, five different kinds of mutants? I will compensate you for your efforts.</text>
+	</string>
+    <string id="brain_machine_deactivate_text">
+		<text>The Miracle Machine / Brain Lab seem to emit psy waves targeted at the Radar area. Psy emissions around the Miracle Machine are also blocking the scientists' research in Yantar. </text>
+	</string>
+    <!-- Peregrine toolkits -->
+    <string id="mechanic_army_yan_mlr_task_1_fetch_finish">
+		<text>Alright, let's take a look. Yeah, these'll do. Now maybe I can do something other than maintenance. Here's your bounty. Come by tomorrow, who knows, I might be able to find a couple items of interest for you.</text>
+	</string>
+    <string id="mechanic_army_yan_mlr_task_2_fetch_finish">
+		<text>Great! Come back any time if you need to tune up your gear. Hey, I'll pull in a couple favours and make sure you've got access to the good stuff, alright?</text>
+	</string>
+    <string id="mechanic_army_yan_mlr_task_3_fetch_finish">
+		<text>Hm. Pity you don't work in the Supply Corps. Maybe now I can finally get that damn receiver fixed. As for you, you've earned my gratitude. Hey, half this base doesn't know what to do with the nicer shipments we get, but I bet you will, right? Come back when I've restocked and I'll pick out some nice pieces for you. </text>
+	</string>
+    <!-- Tracking device -->
+    <string id="recover_mutant_data_device_desc">
+		<text>A sturdy device that was planted on a mutant to monitor its movements, habits and vital signs. Shows signs of corrosion, and is covered in numerous bite and scratch marks.\n\n
+        %c[pda_white]PROPERTIES:\n
+        %c[d_cyan] • %c[pda_white] Quest item  </text>
+	</string>
+	<string id="recover_mutant_data_device_name">
+		<text>Tracking Device</text>
+	</string>
+</string_table>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="drx_sl_esc_m_trader_task_1_about">
+		<text>I have a group of tourists coming through and they want to see what it's like to kill a mutant. Take them out on a hunt, give them some excitement. Just make sure they don't get themselves killed. It's bad for business.</text>
+	</string>
+    <string id="drx_sl_esc_m_trader_task_2_about">
+		<text>The new rookies in the camp are very green. I'm concerned they won't last a day in the Zone. It's bad for business if they die, you know? Fewer customers for me. I want you to take them on an expedition into the Zone. Tell them what to watch out for, show them an anomaly, teach them how to stay alive.</text>
+	</string>
+    <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>I need your help. A stalker from my camp went out for supplies and hasn't come back. I fear something may have happened to him. I'll mark his last known location on your map. See if you can find him.</text>
+	</string>
+    <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>Where have you been? A military squad came through here and tore up the place. Between them and that damn helicopter they wiped out nearly everyone in the camp. We were able to take out most of them, but one of them managed to get away. He may be injured, see if you can follow his trail. I'll show you which direction he was headed.</text>
+	</string>
+    <string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_finish">
+		<text>Thank you stalker. Take this as a reward for your actions.</text>
+	</string>
+    <string id="esc_m_trader_task_1_about">
+		<text>Bandits have settled into the old car park. Those assholes mug or kill anyone who uses the roads leading in and out of the camp. It's disrupting local activities for my clients, and hurting my business! And, of course, it hurts the stalkers who take refuge here. I need you to 'take care' of them. Talk to Fanatic if you need any help.</text>
+	</string>
+    <string id="esc_m_trader_task_2_finish">
+		<text>You got rid of that piece of filth? Good riddance! Here is what I promised, and let it never be said that uncle Sidorovich doesn't reward good work.</text>
+	</string>
+    <string id="esc_m_trader_task_3_about">
+		<text>Listen, stalker. This is supposed to be a safe place for rookies to get to know the Zone. Trouble is, they wind up learning about the business end of bandit guns instead. The thugs disrupt our routes and steal our loot. Go teach them a lesson, will ya?</text>
+	</string>
+    <string id="esc_m_trader_task_3_fetch_about">
+		<text>Recently, some high-and-mighty bandit lord, up in Dark Valley, has decided to make a move on my business.  He calls himself something stupid, like Sultana. What's next? Riesling? Muscadine?\n \nSo, let's send the bloated grape a message. Remind him who the real boss is. I know his men are skulking about - they usually make their way down to the Cordon through Darkscape or Meadow to harass the rookies and disrupt my routes. I'd like you to do me a favour and off a few of them. Then, bring me their %ses, and I'll sort out the rest. </text>
+	</string>
+    <string id="esc_m_trader_task_3_fetch_finish">
+		<text>Finally, you're back. You've got the patches? All right, here is your reward. I'll handle the rest.</text>
+	</string>
+    <string id="esc_2_12_stalker_wolf_task_1_finish">
+		<text>Thank you, stalker. Maybe the rookies around here will take this chance to learn a thing or two before becoming boar food. Ah, right. I said I'd owe you. Here's your payment.</text>
+	</string>
+    <string id="esc_2_12_stalker_wolf_task_2_text">
+		<text>Bandits have harrassed Cordon loners for a long enough time: it's time for payback. Purge all the bandits from Cordon.</text>
+	</string>
+    <string id="esc_2_12_stalker_wolf_task_2_about">
+		<text>Bandits have always been an issue around here in Cordon. Our brothers keep getting ambushed by bandits if they so much as stroll out of base. If they are lucky enough they survive, but we have lost enough of our friends to the hands of these mongrels. It's time to make them pay: cleanse Cordon of the bandit groups we have spotted. Will you do this? Otherwise, I'll need to go myself, and I don't want to leave the village only half-guarded.</text>
+	</string>
+    <string id="esc_2_12_stalker_wolf_task_2_finish">
+		<text>Good job, stalker. The bandits won't annoy us any more. Here's your reward. </text>
+	</string>
+    <string id="esc_2_12_stalker_wolf_task_3_about">
+		<text>Some foreign tourists have paid Sidorovich good money to go on a light hunting trip through the Zone. They're actually not bad shots, but they don't know the first thing about anomalies or the kind of monsters we have around here. As if I wasn't babysitting enough people already.\n \nCould you be their guide? Nothing fancy - people like this are usually happy with a short stroll through Cordon with some shooting at the end. Just make sure they don't do anything stupid. It'd save me a headache, and it's good pay for simple work.</text>
+	</string>
+    <string id="esc_2_12_stalker_nimble_task_1_about">
+		<text>I have a client looking for a specific firearm and I need someone to help me find it. If you are interested, I'll tell you the details. What do you say?</text>
+	</string>
+    <string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+		<text>I need one %s, but it must be in mint condition. The client is paying top dollar, and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profits, since you are doing all the work. Come back when you find it, man.</text>
+	</string>
+    <string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>This is a fine weapon. I think my client will be pleased once I deliver this to him. Here's what I owe you.</text>
+	</string>
+    <string id="esc_2_12_stalker_nimble_task_2_about">
+		<text>I need you to pick up a PDA for me. It's hidden in a spot not too far from here.</text>
+	</string>
+
+	<!-- Xenotech quests -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>Xenotech needs %s to install basic equipment upgrades.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+		<text>Finally! I've been looking forward to holding a half-decent set of tools in my hands. As for you, here's some cash. I'll open up my stores to you too, as my way of saying thanks.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>Xenotech needs %s to install advanced equipment upgrades.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+		<text>Yes, yes! This is just what I needed! Help yourself to some roubles and some more of my stock, stalker. Your help is appreciated.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
+		<text>Xenotech needs %s to install expert equipment upgrades.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
+		<text>You've proven yourself a true friend, stalker. Nothing but the finest gear for you. You'll always be welcome in my workshop.</text>
+	</string>
+
+    <!-- Fanatic tasks -->
+    <string id="esc_2_12_stalker_fanat_task_1_about">
+		<text>Yeah, there's a small issue that needs sorting out. Cordon is supposed to be one of the safest places in the Zone, yet a new mutant lair has sprung up not too far from here. It needs to be cleared before it gets too large - otherwise, the rookies here will be in for a bad time. So, what do you say? Will you do it?</text>
+	</string>
+    <string id="esc_2_12_stalker_fanat_task_2_fetch_about">
+		<text>So, here's the situation. A lot of dirty work has to happen to keep this village unmolested by the local soldiers. Sidorovich keeps the village safe in this way, but I have a few friends who want to leave, and there isn't any real way out for them.\n \nThat's the thing with the military's border patrols - they're not too careful about keeping people from getting in. But they'd rather kill you in cold blood than let you get out. So, my friends are stuck here.\n \nThe checkpoint guards won't let them through alive unless we bribe them with a Battery artefact. Have you heard of it? They can be found in Electro anomalies.\n \nI've already sent every stalker I can to find one, but no one has gotten back to me yet. Will you help out too?</text>
+	</string>
+
+    <!-- Hip -->
+    <string id="toz34_sk2_return">
+		<text>Bring the TOZ-194 and twenty rounds of ammunition to Hip for payment</text>
+	</string>
+	<string id="toz34_sk2_find">
+		<text>Find a TOZ-194 and twenty rounds of ammunition for Hip's client</text>
+	</string>
+	<string id="toz34_return_descr">
+		<text>Hip told me a wealthy client is willing to pay an exhorbitant amount for a TOZ-194 and twenty 12x76ga buckshot rounds. Problem is, I'll have to find the shotgun on my own.</text>
+	</string>
+
+    <!-- Military tasks -->
+    <string id="esc_3_16_military_trader_task_1_text">
+		<text>The checkpoint commander, Major Zhurov, has asked me to bring %s. It should help remind stalkers who's in charge.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_about">
+		<text>The top brass has launched an unofficial bounty program, do you want to take part? As proof, I require patches from criminals in the Zone.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_fetch_about">
+		<text>The top brass has launched an unofficial bounty program. While we've been asked to avoid the nearby village, we need to show the locals that we're still a force to be respected and obeyed. Shoot down any trespassing stalkers you find on sight, and collect their patches as proof. Once you have enough %ses, return to me for a nice bonus to your paycheck. </text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_fetch_finish">
+		<text>You've gone above and beyond the call of duty. Here, take your commendation and be proud today.</text>
+	</string>
+    <string id="army_south_mechan_mlr_task_1_about">
+		<text>I do, actually. A while back, all our tools were recalled to the research complex in Yantar, which is why I can't even repair the BTR here. I need tools - basic ones. Mind helping out?</text>
+	</string>
+    <string id="army_south_mechan_mlr_task_1_fetch_about">
+		<text>I do, actually. A while back, all our tools were recalled to the research complex in Yantar, which is why I can't even repair the BTR here. I need tools - basic ones. Do you think you can acquire a set for me, off the books?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_fetch_finish">
+		<text>Let me see... wow, these really are basic, aren't they? Still, they're better than what I had. Here's a little something to say thanks, and I'll let you take a look at my expanded stock.</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_fetch_finish">
+		<text>Alright, let's take a look... okay, these are good. It's not enough for the BTR, but maybe now I can buff up the armour of the conscripts around here. That'll be good for morale - no one wants to go around thinking they'll die to a stiff breeze. As for your reward, take this bonus, and let me just expedite your access to some of the better gear...</text>
+	</string>
+    <string id="army_south_mechan_mlr_task_3_about">
+		<text>Alright, so the bad news is that nothing is going to bring this particular BTR back to life. The good news is that we won't have to. Some military stalkers are showing an interest in my work. It's time to get our guys equipped with some proper gear. But for me to do that, I'll need the best tools in the Zone - expert calibration tools. Can you find me some?</text>
+	</string>
+    <string id="army_south_mechan_mlr_task_3_fetch_about">
+		<text>Alright, so the bad news is that nothing is going to bring this particular BTR back to life. The good news is that we won't have to. Some military stalkers are showing an interest in my work. It's time to get our guys equipped with some proper gear. But for me to do that, I'll need the best tools in the Zone - expert calibration tools. Can you find me some?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_fetch_finish">
+		<text>You know, I never thought I'd see the day where I'd have access to such sophisticated equipment again. I thank you, on behalf of all military forces in the Zone. Your contribution today will doubtless save many lives. Now, of course, I'm happy to open up my stores to you completely. What the quartermaster doesn't know won't hurt him.</text>
+	</string>
+</string_table>

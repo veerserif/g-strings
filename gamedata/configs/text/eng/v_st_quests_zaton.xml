@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!-- Cardan tools -->
+    <string id="zat_a2_stalker_mechanic_task_1_text">
+		<text>Cardan needs %s to install basic equipment upgrades. </text>
+	</string>
+    <string id="zat_a2_stalker_mechanic_task_1_fetch_about">
+		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me, I will be grateful. I bet I can find a way to pay you back.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_finish">
+		<text>Great, stalker. That's exactly what I asked for. Come back tomorrow, I think you'll like what I have in stock.</text>
+	</string>
+    <string id="zat_a2_stalker_mechanic_task_2_text">
+		<text>Cardan needs %s to install advanced equipment upgrades.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_about">
+		<text>I could really use more tools and vodka... but the vodka is easy to find. What I need from you is more tools, better tools. Can you do this for me?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_about">
+		<text>I need a set of advanced tools. It should contain what I need. If you can bring some back for me, I will be grateful. I'll scrounge up a reward for you too.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_finish">
+		<text>Fantastic! Feel free to stop by any time for a drink or if you need access to the good shit.</text>
+	</string>
+    <string id="zat_a2_stalker_mechanic_task_3_text">
+		<text>Cardan needs %s to install expert equipment upgrades.</text>
+	</string>
+    <string id="zat_a2_stalker_mechanic_task_3_about">
+		<text>I could really use more tools and vodka... Well by this point, I've got a good vodka guy, and I'm looking at my tools guy. I need you to hook me up with the best tools the Zone can offer. Can you do this for me?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_about">
+		<text>I need a set of expert tools. Yeah, they're hard to get, but I think you can come through for me, right? I'll make sure it's worth your time.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_finish">
+		<text>Amazing! Really, I'm speechless. Come by any time for a drink. And I'll pick out the best gear I get my hands on just for you.</text>
+	</string>
+    <!-- Noah -->
+	<string id="task_noah_2_1">
+		<text>Benefactor: Get in the Teleporter Anomaly on the Hill</text>
+	</string>
+	<string id="task_noah_2_2">
+		<text>Benefactor: Clear out the Mutant Lair</text>
+	</string>
+	<string id="task_noah_2_3">
+		<text>Benefactor: Tell Noah about the Successful Mission</text>
+	</string>
+	<string id="task_noah_1_1">
+		<text>Benefactor: Help Noah get a New Rifle</text>
+	</string>
+	<string id="task_noah_1_2">
+		<text>Benefactor: Bring Noah an Armsel Protecta</text>
+	</string>
+
+    <!--Mercenary mechanic-->
+    <string id="zat_stancia_mech_merc_task_1_text">
+		<text>A mercenary technician in Zaton has asked me to bring him %s.</text>
+	</string>
+    <string id="zat_stancia_mech_merc_task_1_fetch_finish">
+		<text>Damn, thanks. Consider yourself part of my discerning customer list. Come by later and I'll make sure you get access to the VIP stock.</text>
+	</string>
+    <string id="zat_stancia_mech_merc_task_2_text">
+		<text>A mercenary technician in Zaton has asked me to bring him %s.</text>
+	</string>
+    <string id="zat_stancia_mech_merc_task_2_about">
+		<text>Having reliable weapons is nice, but that only goes so far without sufficient upgrades. Will you find me an even better set of tools?</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_fetch_about">
+		<text>Having reliable weapons is nice, but that only goes so far without sufficient upgrades. Will you find me an even better set of tools?</text>
+	</string>
+	<string id="zat_stancia_mech_merc_task_2_fetch_finish">
+		<text>Thank you. Consider yourself part of my silver-tier customers. Come back later for some of the stuff I keep hidden for guys like you.</text>
+	</string>
+    <string id="zat_stancia_mech_merc_task_3_text">
+		<text>A mercenary technician in Zaton has asked me to bring him %s.</text>
+	</string>
+    <string id="zat_stancia_mech_merc_task_3_fetch_finish">
+		<text>Oh, fuck... You're every technician's dream! Well done indeed... gold star customers like you get my best stock.</text>
+	</string>
+
+    <!-- Axel (loner) mechanic -->
+    <string id="zat_b22_stalker_medic_task_1_text">
+		<text>Axel needs %s to work on medical supplies.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_about">
+		<text>I'm down to sloshing vodka on rags instead of using proper antiseptic and bandages. And the stalkers here aren't getting any less careful. With the number of injuries I have to treat all the time, I'll be out of even vodka and rags soon.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_fetch_about">
+		<text>There is. I've been looking all over for a %s. It should contain some tablets and ampoules I need to do work on medical supplies. I'll pay you for one of these kits if you can bring a full set back to me.</text>
+	</string>
+    <!--Spleen tools-->
+    <string id="zat_tech_mlr_task_1_text">
+		<text>Spleen needs %s to install basic equipment upgrades.</text>
+	</string>
+	<string id="zat_tech_mlr_task_1_fetch_finish">
+		<text>Great, stalker. You brought exactly what I've asked. Thanks, I'll open up my special stash to you.</text>
+	</string>
+	<string id="zat_tech_mlr_task_2_text">
+		<text>Spleen needs %s to install advanced equipment upgrades. </text>
+	</string>
+	<string id="zat_tech_mlr_task_2_fetch_about">
+		<text>A set of advanced tools would be great for my business. I could barter for so much more if I could offer upgrades with advanced tools...</text>
+	</string>
+	<string id="zat_tech_mlr_task_2_fetch_finish">
+		<text>Great, stalker. Come by tomorrow after word gets out, I'll make sure you get access to some of the stuff I barter for.</text>
+	</string>
+	<string id="zat_tech_mlr_task_3_text">
+		<text>Spleen needs %s to install expert equipment upgrades.</text>
+	</string>
+	<string id="zat_tech_mlr_task_3_fetch_about">
+		<text>Can you even imagine the kind of trades I could set up if I had a set of expert tools? It's the last thing I need to make sure all the stalkers here that need help will get it.</text>
+	</string>
+	<string id="zat_tech_mlr_task_3_fetch_finish">
+		<text>Amazing work, stalker. Come back later and check out my stock. What comes around goes around, eh?</text>
+	</string>
+</string_table>

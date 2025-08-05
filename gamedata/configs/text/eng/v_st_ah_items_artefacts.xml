@@ -1,0 +1,134 @@
+<?xml version = "1.0" encoding = "windows-1251"?>
+<string_table>
+	<string id = "st_af_ah_o1_descr">
+		<text>A half-formed artefact, made of iron, bismuth, cadmium and nickel. It is created in fire anomalies. It has no useful properties on its own, but it has a very peculiar torus shape.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)
+            </text>
+	</string>	
+
+	<string id = "st_af_ah_o2_descr">
+		<text>A half-formed artefact, made of iron, bismuth, cadmium and nickel. It is created in fire anomalies. It has no useful properties on its own, but it has a very peculiar torus shape.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)
+            </text>
+	</string>	
+
+	<string id = "st_af_ah_h1_descr">
+		<text>A pale green artefact, which randomly changes between a solid and semi-liquid state. This makes it difficult to handle and store. Unlike similiar artefacts, like "Soul", the goo secreted by this artefact has neither positive nor negative effects on the human body.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_h2_descr">
+		<text>A pale green artefact, which randomly changes between a solid and semi-liquid state. This makes it difficult to handle and store. Unlike similiar artefacts, like "Soul", the goo secreted by this artefact has neither positive nor negative effects on the human body.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_g1_descr">
+		<text>A lump of shriveled clay and organic debris. It seems impossible to separate into individual clumps, due to the presence of some unknown and incredibly strong binding agent. Some scientists theorize it is held together by a gravitational anomaly inside, but this is yet to be proven.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_g2_descr">
+		<text>A lump of shriveled clay and organic debris. It seems impossible to separate into individual clumps, due to the presence of some unknown and incredibly strong binding agent. Some scientists theorize it is held together by a gravitational anomaly inside, but this is yet to be proven.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_e1_descr">
+		<text>A shard of silica quartz with remarkable purity, ranging from 99.5% to 99.9%, formed exclusively in electro anomalies. Due to its lack of useful properties, this beautiful artefact is not worth much in the Zone. However, collectors and scientists alike would pay a high price for this unique trinket.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_e2_descr">
+		<text>A shard of silica quartz with remarkable purity, ranging from 99.5% to 99.9%, formed exclusively in electro anomalies. Due to its lack of useful properties, this beautiful artefact is not worth much in the Zone. However, collectors and scientists alike would pay a high price for this unique trinket.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_s1_descr">
+		<text>An experimental and unstable artefact, created by artificial means. It is unknown how it was formed, or where. It seems to improve the natural healing process of the body, using an unknown mechanism. It is not advised to be near this artefact for prolonged periods of time.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_f1_descr">
+		<text>A never-before-seen artefact with remarkable properties. It seems to be of organic origin and is very symmetrical, unusual for artefacts found in the Zone. It increases the structural and tensile strength of any nearby materials. If you put it up to your ear, you swear you can hear voices whispering unintelligibly.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact</text>
+	</string>	
+
+	<string id = "st_af_ah_r1_descr">
+		<text>An artefact found only in the Dead Forest, south of Lab X-9. It mostly contains plant matter. The strong psy-fields it was subjugated to during its formation may have heavily influenced this artefact's shape and properties. Due to this, it provides a unique opportunity to study the effects of these not-yet-understood phenomena.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_r2_descr">
+		<text>An artefact found only in the Dead Forest, south of Lab X-9. It mostly contains plant matter. The strong psy-fields it was subjugated to during its formation may have heavily influenced this artefact's shape and properties. Due to this, it provides a unique opportunity to study the effects of these not-yet-understood phenomena.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_r3_descr">
+		<text>An artefact found only in the Dead Forest, south of Lab X-9. It mostly contains plant matter. The strong psy-fields it was subjugated to during its formation may have heavily influenced this artefact's shape and properties. Due to this, it provides a unique opportunity to study the effects of these not-yet-understood phenomena.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_r4_descr">
+		<text>An artefact found only in the Dead Forest, south of Lab X-9. It mostly contains plant matter. The strong psy-fields it was subjugated to during its formation may have heavily influenced this artefact's shape and properties. Due to this, it provides a unique opportunity to study the effects of these not-yet-understood phenomena.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_af_ah_r5_descr">
+		<text>An artefact found only in the Dead Forest, south of Lab X-9. It mostly contains plant matter. The strong psy-fields it was subjugated to during its formation may have heavily influenced this artefact's shape and properties. Due to this, it provides a unique opportunity to study the effects of these not-yet-understood phenomena.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Artefact (Quest item)</text>
+	</string>	
+
+	<string id = "st_kovalev_pda_descr">
+		<text> The laptop contains data from Kovalev's most recent field study of the anomalous areas around the Agroprom Research Institute. Among the files is a map with the exact locations of the anomalies I need to investigate.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>	
+
+	<string id = "st_pirogov_pda_descr">
+		<text> The PDA of a deceased fellow candidate, who helped Pirogov place prototypes in the anomalies around Garbage. It contains the remaining locations that I am supposed to scan.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>
+
+	<string id = "st_strelok_pda_descr">
+		<text>The PDA of the deceased stalker who successfully mapped the anomalies in the Red Forest, but was ambushed by Monolith on his way back to the scientists. It has dried blood all over the display and some of the buttons don't seem to work.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>
+
+	<string id = "st_chernov_pda_name">
+		<text> Operation "Rainbow" Research Report No. 9: "About the Formation of Artefacts" </text>
+	</string>
+
+	<string id = "st_chernov_pda_descr">
+		<text> A bundle of papers from the X-19 laboratory. Most of the pages are damp and only the title page is still legible. However, some pictures and diagrams survived and they show that the artefacts were somehow "grown" on trees, in the forest south of the X-19 complex.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>		
+
+	<string id = "st_vorobushkin_pda_descr">
+		<text> An old but sturdy memory module, retrieved from the derelict Krug Antenna Complex. Restored and repaired by Professor Vorobushkin, it contains a spectrogram of the anomalous emissions around the station, with a detailed map of their sources.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>	
+
+	<string id = "ah_gramota_desc">
+		<text>A personalized letter of gratitude, recognizing my services to the scientific community, signed personally by Professor Skabinsky. It also includes a recommendation to employ the holder of this document as Senior Executive Field Researcher at the Scientific Institute for Research of Chernobyl Anomalous Area.\n\n
+            %c[pda_white]PROPERTIES:\n
+            %c[d_cyan] • %c[pda_white] Quest item</text>
+	</string>	
+</string_table>

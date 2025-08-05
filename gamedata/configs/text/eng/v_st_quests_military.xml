@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_about">
+		<text>Well, right now, we're stuck between a rock and a hard place. Zealots to the north, extremists to the south, and a sprinkle of military goons for good measure. How about you explain to them what we think of their edicts and commands the old-fashioned way? There'll be a sweet reward at the end for you, don't worry.</text>
+	</string>
+    <string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_about">
+		<text>Well, right now, we're stuck between a rock and a hard place. Zealots to the north, extremists to the south, and a sprinkle of military goons for good measure. How about you explain to them what we think of their edicts and commands the old-fashioned way? After you've finished humiliating them, bring me %ses as trophies. There'll be a sweet reward at the end for you, don't worry.</text>
+	</string>
+
+    <!-- Screw toolkit tasks -->
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
+		<text>Screw needs %s to install basic equipment upgrades.</text>
+	</string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
+		<text>Thanks, man! I knew there was a reason I asked you. Hey, come back later and I'll let you take a look at the good stuff.</text>
+	</string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
+		<text>Screw needs %s to install advanced equipment upgrades.</text>
+	</string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
+		<text>Thanks. If you manage to come through for me on this, I'll set aside something nice for you in future shipments, too.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
+		<text>You keep this shit up, everyone around here is going to love you. Come back next time I've got my new shipments and I'll make sure you get first dibs on the finest shit in there.</text>
+	</string>
+    <string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
+		<text>Man, Freedom's gonna love this. Shotguns with parachutes! Armoured SMGs! I'll make it happen! Say, you probably appreciate the nicer things in life, right? So I'll make sure you get first crack at our new armoury.</text>
+	</string>
+
+    <!--Defend the Barrier-->
+    <string id="barrier_defense_monolith_announce">
+		<text>To every friendly stalker reading this, a large group of Monolith soldiers are approaching the Barrier. Any help will be appreciated and rewarded.</text>
+	</string>
+    <string id="barrier_defense_monolith_intro_2">
+		<text>Excellent, the scouts reported several Monolith squads approaching, and every extra gun is welcome. Get in position and wait for the fanatics to show up. Simple, right? If it gets too much and you run, we won't hold it against you, but you can forget about any kind of reward.</text>
+	</string>
+    <string id="barrier_defense_zombie_announce">
+		<text>To every friendly stalker reading this, a large group of zombies are approaching the Barrier. Any help will be appreciated and rewarded.</text>
+	</string>
+    <string id="barrier_defense_zombie_intro_2">
+		<text>Very well. Usually the zombies don't put up much of a fight, but we're short on manpower thanks to Monolith and those military cosplayers. This should be as simple as a day at the range.</text>
+	</string>
+    <string id="barrier_defense_zombie_outro_2">
+		<text>Very well, hope you didn't recognize anyone in there. Sometimes people come back from the Barrier more shaken up than when fighting Monolith. Let's have a drink for those poor souls, and pray we never end up like them.</text>
+	</string>
+    <string id="barrier_defense_reinforcements_4">
+		<text>It has already begun! Come on guys, move your ass or we'll miss all the action!</text>
+	</string>
+    <string id="mil_freedom_medic_task_1_text">
+		<text>Solid needs a %s for his work on medical supplies.</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_about">
+		<text>I'm gonna run out of actual medicine at this rate, between people looking for "stress relief" and the actual injuries I have to treat every day. If you can get your hands on a drug-making kit for me, it'll help out. Don't give me that look - some of those drugs have real medical uses, too.</text>
+	</string>
+</string_table>
