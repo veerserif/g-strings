@@ -3,10 +3,11 @@
     <!--New Tasks Addons-->
     <!-- NTA Living Fire -->
     <string id="baraholka_trader_the_living_fire_1_1">
-        <text>Ah, yes... I've got something, but don't get your hopes too high. Some time ago, we observed weird flashes happening at night behind the huge garbage pile south of us, followed by some terrifying mutant howls. Some loners were curious about what happened there, and visited the place during the day. They found some dead fleshes there, which were... well.. slightly grilled. At first, we thought that those fleshes got into some barely visible anomaly that disappeared the next day, or encountered a flame poltergeist, but there was one peculiar thing about one of them. It had something that looked like a brand on its back - it was in the shape of a human hand. It could have been a simple accident... or not? Who knows...\n \nYou could have a look around here at night if you'd like to find out more. If that guy really exists, then his affinity with fire might be a good clue as to where you should look for him.</text>
+        <text>Ah, yes... I've got something, but don't get your hopes too high. Some time ago, we observed weird flashes happening at night behind the huge garbage pile south of us, followed by some terrifying mutant howls. Some loners were curious about what happened there, and visited the place during the day. They found some dead fleshes there, which were... well.. slightly grilled. At first, we thought that those fleshes got into some barely visible anomaly that disappeared the next day, or encountered a flame poltergeist, but there was one peculiar thing about one of them. It had something that looked like a brand on its back - it was in the shape of a human hand. It could have been a simple accident... or not? Who knows...\n \n
+		You could have a look around here at night if you'd like to find out more. If that guy really exists, then his affinity with fire might be a good clue as to where you should look for him.</text>
     </string>
     <string id="baraholka_trader_the_living_fire_1_3">
-		<text>Yeah... I've got to admit it sounds nuts. You should still watch your back. The Zone is a strange place...\nAnyway - Snitch owes me one round for this, no matter how your investigation ends.</text>
+		<text>Yeah... I've got to admit it sounds nuts. You should still watch your back. The Zone is a strange place...\nAnyway - Snitch owes me a round for this, no matter how your investigation ends.</text>
 	</string>
     <string id="baraholka_trader_the_living_fire_2_0">
 		<text>I'm back from my search.</text>
@@ -24,13 +25,13 @@
 		<text>Five thousand? Are you out of your mind? I could have died there!</text>
 	</string>
     <string id="bar_informator_mlr_the_living_fire_2_5">
-		<text>We do. While you've been doing your investigation, I overheard a talk between two scientists about some abnormal anomalous activity, at exactly the place where you met the stranger. You should go and talk with Sakharov and offer to help him investigate the issue.</text>
+		<text>We do. While you were doing your investigation, I overheard a talk between two scientists about some abnormal anomalous activity, at exactly the place where you met the stranger. You should go and talk with Sakharov and offer to help him investigate the issue.</text>
 	</string>
     <string id="yan_stalker_sakharov_the_living_fire_1_1">
 		<text>Not now young man. We're busy with some recent incidents.</text>
 	</string>
     <string id="yan_stalker_sakharov_the_living_fire_1_3">
-		<text>How did you know? Are you intercepting my messages? This information is classified!</text>
+		<text>How did you know? Are you intercepting my messages? That information is classified!</text>
 	</string>
     <string id="yan_stalker_sakharov_the_living_fire_1_4">
 		<text>Calm down, Professor. It's not important how I found out. The thing is - I was there not long ago, when something weird happened. I'm willing to share my knowledge with you if you agree to disclose what you know. This could be mutually beneficial. Maybe I could assist you with...</text>
@@ -92,7 +93,7 @@
 		<text>Why didn't you then? I've seen your power... that flesh in the Garbage burst into flames.</text>
 	</string>
 	<string id="the_living_fire_prometheus_the_living_fire_1_5">
-		<text>I'm just a simple stalker - like you. I've mainly stuck to the southern parts of the Zone before my little accident, but we'll get to it. I went by the name of Boris... a simple newbie that came to the Zone to make some money and pay off my debts. I was mostly running some errands for the local traders... mainly for that scumbag Sidorovich.
+		<text>I was just a simple stalker, like you. I mainly stuck to the southern parts of the Zone before my little accident, but we'll get to it. I went by the name of Boris... a simple newbie who came to the Zone to make some money and pay off my debts. I was mostly running some errands for the local traders... mainly for that scumbag Sidorovich.
         \n \nYou see, one day I received a task to deliver some package to the scientists at Yantar. Seemed like some easy money. It didn't turn out well for me... I got captured by a squad of military and they offered to let me go free if I pay them. Once they got the money, they took everything from me and beat me up so badly that I could barely walk... fucking corrupt bastards.</text>
 	</string>
 	<string id="the_living_fire_prometheus_the_living_fire_1_7">
