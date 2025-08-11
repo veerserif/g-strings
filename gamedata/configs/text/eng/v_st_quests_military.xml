@@ -28,6 +28,14 @@
 		<text>Man, Freedom's gonna love this. Shotguns with parachutes! Armoured SMGs! I'll make it happen! Say, you probably appreciate the nicer things in life, right? So I'll make sure you get first crack at our new armoury.</text>
 	</string>
 
+	<!--Amass Equipment for Freedom-->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
+		<text>Well, there is something important that needs looking at. We're planning a special infiltration mission to Rostok - I can't share more details, I'm sure you understand. We need some equipment for our operatives' disguises. Specifically we need:\n
+		- 10 full boxes of 5.45x39mm HP rounds (150 rounds total),\n
+		- 5 complete army medkits (10 uses total)\n 
+		This is so that they can defend themselves against any mutants on the road, and patch themselves up just in case. If you go the extra mile and get some... morale items... you'll get a nice bonus. I think some cocaine and a couple of heavy metal magazines would help our boys make some new friends in Rostok. So, you in? You'll be well paid, of course.</text>
+	</string>
+
     <!--Defend the Barrier-->
     <string id="barrier_defense_monolith_announce">
 		<text>To every friendly stalker reading this, a large group of Monolith soldiers are approaching the Barrier. Any help will be appreciated and rewarded.</text>
@@ -51,6 +59,6 @@
 		<text>Solid needs a %s for his work on medical supplies.</text>
 	</string>
 	<string id="mil_freedom_medic_task_1_about">
-		<text>I'm gonna run out of actual medicine at this rate, between people looking for "stress relief" and the actual injuries I have to treat every day. If you can get your hands on a drug-making kit for me, it'll help out. Don't give me that look - some of those drugs have real medical uses, too.</text>
+		<text>I'm gonna run out of actual medicine at this rate, between people looking for "stress relief" and the real injuries I have to treat every day. If you can get your hands on a drug-making kit for me, it'll help out. Don't give me that look - some of those drugs have legitimate medical uses, too.</text>
 	</string>
 </string_table>
